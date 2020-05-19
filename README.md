@@ -2,7 +2,7 @@
 
 **Created by Hiroya Aramaki ([Makihiro](https://twitter.com/makihiro_dev))**
 
-## What is Modifiables ?
+## What is Modiferty ?
 
 Modiferty is a great solution for making modifications to properties.
 
