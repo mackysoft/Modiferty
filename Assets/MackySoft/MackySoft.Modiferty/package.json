@@ -1,0 +1,16 @@
+{
+	"name": "com.mackysoft.modiferty",
+	"displayName": "Modiferty",
+	"version": "1.0.0",
+	"description": "Property Modification for Unity.",
+	"author": {
+		"name": "Hiroya Aramaki (Makihiro)",
+		"url": "https://github.com/mackysoft",
+		"email": "mackysoft0129@gmail.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mackysoft/Modiferty.git"
+	}
+}
