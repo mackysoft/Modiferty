@@ -1,14 +1,14 @@
-﻿# Modifierty - Property Modification
+﻿# Modiferty - Property Modification
 
 **Created by Hiroya Aramaki ([Makihiro](https://twitter.com/makihiro_dev))**
 
 ## What is Modifiables ?
 
-Modifiable is a great solution for making modifications to properties.
+Modiferty is a great solution for making modifications to properties.
 
 In games, there are often situations in which the status of characters, weapons, etc. temporarily change.
 
-Modifiables can be used in the following situations.
+Modiferty can be used in the following situations.
 
 - Want to modify the in-game character status temporally.
 
@@ -31,10 +31,10 @@ Releases: https://github.com/mackysoft/Modiferty/releases
 
 # <a id="usage" href="#requirements"> Usage </a>
 
-Add "MackySoft.Modifiables" namespace into using area.
+Add "MackySoft.Modiferty" namespace into using area.
 
 ```cs
-using MackySoft.Modifiables;
+using MackySoft.Modiferty;
 ```
 
 The following code implements a temporary increase the character attack power.
