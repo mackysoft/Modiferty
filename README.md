@@ -22,6 +22,12 @@ Modifiables can be used in the following situations.
 - [Author Info](#author-info)
 - [License](#license)
 
+# <a id="installation" href="#installation"> Installation </a>
+
+Download any version from releases.
+
+Releases: https://github.com/mackysoft/Modiferty/releases
+
 # <a id="usage" href="#requirements"> Usage </a>
 
 Add "MackySoft.Modifiables" namespace into using area.
