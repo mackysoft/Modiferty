@@ -14,6 +14,7 @@ Modifiables can be used in the following situations.
 
 ## <a id="index" href="#index"> Table of Contents </a>
 
+- [Installation](#installation)
 - [Usage](#usage)
   - [Using ModifierList](#using-modifierlist)
 - [Modifier Types](#modifier-types)
