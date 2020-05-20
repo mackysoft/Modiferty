@@ -12,7 +12,7 @@ namespace MackySoft.Modiferty {
 	#region Operator Modifiers
 
 	[Serializable]
-	public class AdditiveModifier : IModifier<int> {
+	public class AdditiveModifierInt : IModifier<int> {
 
 		[SerializeField]
 		int m_Amount;
@@ -24,7 +24,7 @@ namespace MackySoft.Modiferty {
 
 		public int Priority { get => m_Priority; set => m_Priority = value; }
 
-		public AdditiveModifier (int amount) {
+		public AdditiveModifierInt (int amount) {
 			Amount = amount;
 		}
 
@@ -34,7 +34,7 @@ namespace MackySoft.Modiferty {
 	}
 
 	[Serializable]
-	public class SubtractiveModifier : IModifier<int> {
+	public class SubtractiveModifierInt : IModifier<int> {
 
 		[SerializeField]
 		int m_Amount;
@@ -46,7 +46,7 @@ namespace MackySoft.Modiferty {
 
 		public int Priority { get => m_Priority; set => m_Priority = value; }
 
-		public SubtractiveModifier (int amount) {
+		public SubtractiveModifierInt (int amount) {
 			Amount = amount;
 		}
 
@@ -56,7 +56,7 @@ namespace MackySoft.Modiferty {
 	}
 
 	[Serializable]
-	public class MultiplyModifier : IModifier<int> {
+	public class MultiplyModifierInt : IModifier<int> {
 
 		[SerializeField]
 		int m_Multiply = 1;
@@ -68,7 +68,7 @@ namespace MackySoft.Modiferty {
 
 		public int Priority { get => m_Priority; set => m_Priority = value; }
 
-		public MultiplyModifier (int multiply) {
+		public MultiplyModifierInt (int multiply) {
 			Multiply = multiply;
 		}
 
@@ -79,7 +79,7 @@ namespace MackySoft.Modiferty {
 	}
 
 	[Serializable]
-	public class DivisionModifier : IModifier<int> {
+	public class DivisionModifierInt : IModifier<int> {
 
 		[SerializeField]
 		int m_Division = 2;
@@ -91,7 +91,7 @@ namespace MackySoft.Modiferty {
 
 		public int Priority { get => m_Priority; set => m_Priority = value; }
 
-		public DivisionModifier (int division) {
+		public DivisionModifierInt (int division) {
 			Division = division;
 		}
 

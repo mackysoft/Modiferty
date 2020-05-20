@@ -53,12 +53,13 @@ public class Character : MonoBehaviour {
 
 public class PowerUpItem : MonoBehaviour {
 
-	public AdditiveModifier additiveDamage = new AdditiveModifier(1);
+	public AdditiveModifierInt additivePower = new AdditiveModifierInt(1);
 
 	public void Modify (Character target){
-		target.attackPower.Modifiers.Add(additiveDamage);
-		// target.attackPower.Add(additiveDamage);
-		
+		target.attackPower.Modifiers.Add(additivePower);
+
+		// Same as below.
+		// target.attackPower.Add(additivePower);
 	}
 
 }
@@ -97,7 +98,7 @@ A variety of other unique modifiers are also available.
 The given value ignored and the specified value returned.
 
 ```cs
-var setModifier = new SetModifier(0);
+var setModifier = new SetModifierInt(0);
 
 character.attackPower.Add(setModifier);
 
