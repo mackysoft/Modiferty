@@ -2,6 +2,8 @@
 
 **Created by Hiroya Aramaki ([Makihiro](https://twitter.com/makihiro_dev))**
 
+Introduction (Japanese): [https://mackysoft.net/modiferty-introduction/](https://mackysoft.net/modiferty-introduction/)
+
 ## What is Modiferty ?
 
 Modiferty is a great solution for making modifications to properties.
