@@ -59,21 +59,21 @@ namespace MackySoft.Modiferty {
 	public class MultiplyModifierInt : IModifier<int> {
 
 		[SerializeField]
-		int m_Multiply = 1;
+		float m_Multiply = 1f;
 
 		[SerializeField]
 		int m_Priority;
 
-		public int Multiply { get => m_Multiply; set => m_Multiply = value; }
+		public float Multiply { get => m_Multiply; set => m_Multiply = value; }
 
 		public int Priority { get => m_Priority; set => m_Priority = value; }
 
-		public MultiplyModifierInt (int multiply) {
+		public MultiplyModifierInt (float multiply) {
 			Multiply = multiply;
 		}
 
 		public int Evaluate (int value) {
-			return value * Multiply;
+			return Mathf.RoundToInt(value * Multiply);
 		}
 
 	}
@@ -82,21 +82,21 @@ namespace MackySoft.Modiferty {
 	public class DivisionModifierInt : IModifier<int> {
 
 		[SerializeField]
-		int m_Division = 2;
+		float m_Division = 1f;
 
 		[SerializeField]
 		int m_Priority;
 
-		public int Division { get => m_Division; set => m_Division = value; }
+		public float Division { get => m_Division; set => m_Division = value; }
 
 		public int Priority { get => m_Priority; set => m_Priority = value; }
 
-		public DivisionModifierInt (int division) {
+		public DivisionModifierInt (float division) {
 			Division = division;
 		}
 
 		public int Evaluate (int value) {
-			return value / m_Division;
+			return Mathf.RoundToInt(value / m_Division);
 		}
 	}
 
