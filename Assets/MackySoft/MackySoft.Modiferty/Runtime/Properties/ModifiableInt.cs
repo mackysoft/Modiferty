@@ -1,10 +1,13 @@
 ﻿using System;
 using UnityEngine;
+using MackySoft.Modiferty.Modifiers;
 
 namespace MackySoft.Modiferty {
 
 	[Serializable]
 	public class ModifiableInt : ModifieableProperty<int> {
+		public ModifiableInt () : this(default) {
+		}
 		public ModifiableInt (int baseValue) : base(baseValue) {
 		}
 	}
@@ -12,92 +15,82 @@ namespace MackySoft.Modiferty {
 	#region Operator Modifiers
 
 	[Serializable]
-	public class AdditiveModifierInt : IModifier<int> {
+	public class AdditiveModifierInt : OperatorModifierBase<int> {
 
-		[SerializeField]
-		int m_Amount;
-
-		[SerializeField]
-		int m_Priority;
-
-		public int Amount { get => m_Amount; set => m_Amount = value; }
-
-		public int Priority { get => m_Priority; set => m_Priority = value; }
-
-		public AdditiveModifierInt (int amount) {
-			Amount = amount;
+		public AdditiveModifierInt () : this(default) {
 		}
 
-		public int Evaluate (int value) {
-			return value + Amount;
-		}
-	}
-
-	[Serializable]
-	public class SubtractiveModifierInt : IModifier<int> {
-
-		[SerializeField]
-		int m_Amount;
-
-		[SerializeField]
-		int m_Priority;
-
-		public int Amount { get => m_Amount; set => m_Amount = value; }
-
-		public int Priority { get => m_Priority; set => m_Priority = value; }
-
-		public SubtractiveModifierInt (int amount) {
-			Amount = amount;
+		public AdditiveModifierInt (int baseValue) : base(baseValue) {
 		}
 
-		public int Evaluate (int value) {
-			return value - Amount;
-		}
-	}
-
-	[Serializable]
-	public class MultiplyModifierInt : IModifier<int> {
-
-		[SerializeField]
-		float m_Multiply = 1f;
-
-		[SerializeField]
-		int m_Priority;
-
-		public float Multiply { get => m_Multiply; set => m_Multiply = value; }
-
-		public int Priority { get => m_Priority; set => m_Priority = value; }
-
-		public MultiplyModifierInt (float multiply) {
-			Multiply = multiply;
-		}
-
-		public int Evaluate (int value) {
-			return Mathf.RoundToInt(value * Multiply);
+		public override int Evaluate (int value) {
+			return value + Evaluate();
 		}
 
 	}
 
 	[Serializable]
-	public class DivisionModifierInt : IModifier<int> {
+	public class SubtractiveModifierInt : OperatorModifierBase<int> {
 
-		[SerializeField]
-		float m_Division = 1f;
-
-		[SerializeField]
-		int m_Priority;
-
-		public float Division { get => m_Division; set => m_Division = value; }
-
-		public int Priority { get => m_Priority; set => m_Priority = value; }
-
-		public DivisionModifierInt (float division) {
-			Division = division;
+		public SubtractiveModifierInt () : this(default) {
+		}
+		public SubtractiveModifierInt (int baseValue) : base(baseValue) {
 		}
 
-		public int Evaluate (int value) {
-			return Mathf.RoundToInt(value / m_Division);
+		public override int Evaluate (int value) {
+			return value - Evaluate();
 		}
+
+	}
+
+	[Serializable]
+	public class MultiplyModifierInt : OperatorModifierBase<float,int> {
+
+		[SerializeField]
+		RoundingMethod m_RoundingMethod;
+
+		public RoundingMethod RoundingMethod {
+			get => m_RoundingMethod;
+			set => m_RoundingMethod = value;
+		}
+
+		public MultiplyModifierInt () : this(1f) {
+		}
+		public MultiplyModifierInt (float baseValue) : base(baseValue) {
+		}
+		public MultiplyModifierInt (float baseValue,RoundingMethod roundingMethod) : this(baseValue) {
+			m_RoundingMethod = roundingMethod;
+		}
+
+		public override int Evaluate (int value) {
+			return (value * Evaluate()).RoundToInt(m_RoundingMethod);
+		}
+
+	}
+
+	[Serializable]
+	public class DivisionModifierInt : OperatorModifierBase<float,int> {
+
+		[SerializeField]
+		RoundingMethod m_RoundingMethod;
+
+		public RoundingMethod RoundingMethod {
+			get => m_RoundingMethod;
+			set => m_RoundingMethod = value;
+		}
+
+		public DivisionModifierInt () : this(1f) {
+		}
+		public DivisionModifierInt (float baseValue) : base(baseValue) {
+		}
+		public DivisionModifierInt (float baseValue,RoundingMethod roundingMethod) : this(baseValue) {
+			m_RoundingMethod = roundingMethod;
+		}
+
+		public override int Evaluate (int value) {
+			return (value / Evaluate()).RoundToInt(m_RoundingMethod);
+		}
+
 	}
 
 	#endregion

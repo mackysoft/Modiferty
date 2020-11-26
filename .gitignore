@@ -72,3 +72,7 @@ crashlytics-build.properties
 # Asset Store Tools
 /[Aa]ssets/[Aa]ssetStoreTools.meta
 /[Aa]ssets/[Aa]ssetStoreTools/
+
+# UniRx
+/[Aa]ssets/[Pp]lugins.meta
+/[Aa]ssets/[Pp]lugins/
