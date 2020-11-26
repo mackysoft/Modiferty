@@ -132,7 +132,7 @@ Modiferty supports integration with some external assets.
 
 Install UniRx and define `MODIFERTY_UNIRX` to enable integration with UniRx.
 
-UniRx: [https://github.com/Cysharp/UniTask](https://github.com/Cysharp/UniTask)
+UniRx: [https://github.com/neuecc/UniRx](https://github.com/neuecc/UniRx)
 
 The integration with UniRx mainly adds the following APIs to allow you to observe the values of Modiferty.
 
