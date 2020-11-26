@@ -22,6 +22,8 @@ Modiferty can be used in the following situations.
 - [Modifier Types](#modifier-types)
 	- [Set Modifier](#set-modifier)
 	- [Create Modifier](#create-modifier)
+- [External Assets](#external-assets)
+  - [UniRx](#unirx)
 - [Author Info](#author-info)
 - [License](#license)
 
@@ -61,7 +63,7 @@ public class PowerUpItem : MonoBehaviour {
 		target.attackPower.Modifiers.Add(additivePower);
 
 		// Same as below.
-		// target.attackPower.Add(additivePower);
+		// target.attackPower.AddModifier(additivePower);
 	}
 
 }
@@ -102,7 +104,7 @@ The given value ignored and the specified value returned.
 ```cs
 var setModifier = new SetModifierInt(0);
 
-character.attackPower.Add(setModifier);
+character.attackPower.AddModifier(setModifier);
 
 // result is always 0.
 int result = character.attackPower.Evaluate();
@@ -121,6 +123,53 @@ var createModifier = new CreateModifier<int>(value => {
 	return result;
 });
 ```
+
+# <a id="external-assets" href="#external-assets"> External Assets </a>
+
+Modiferty supports integration with some external assets.
+
+## <a id="unirx" href="#unirx"> UniRx </a>
+
+Install UniRx and define `MODIFERTY_UNIRX` to enable integration with UniRx.
+
+UniRx: [https://github.com/Cysharp/UniTask](https://github.com/Cysharp/UniTask)
+
+The integration with UniRx mainly adds the following APIs to allow you to observe the values of Modiferty.
+
+- `ReactiveModifierList<T>`
+- `ReactiveModifiableProperty<T>`
+
+```cs
+using UnityEngine;
+using UnityEngine.UI;
+using MackySoft.Modiferty;
+using UniRx;
+
+public class Character : MonoBehaviour {
+
+	// Define attackPower as ReactiveModifiableProperty.
+	public ReactiveModifiableInt attackPower = new ReactiveModifiableInt(baseValue: 1);
+
+	. . . . .
+
+}
+
+public class CharacterAttackPowerUI : MonoBehaviour {
+
+	public Character character;
+	public Text attackPowerTsxt;
+
+	void Awake () {
+		// You can observe changes BaseValue and Modifiers.
+		character.attackPower.ObserveChanged().Subscribe(property => {
+
+			// Apply the attackPower change to the text.
+			attackPowerText.text = property.Evaluate();
+		});
+	}
+}
+```
+
 
 # <a id="author-info" href="#author-info"> Author Info </a>
 

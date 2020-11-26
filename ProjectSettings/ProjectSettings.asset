@@ -583,7 +583,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: MACKYSOFT_MODIFERTY_UNIRX
+    1: MODIFERTY_UNIRX
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
