@@ -47,7 +47,8 @@ namespace MackySoft.Modiferty {
 			}
 			return Observable.Merge(
 				source.ObserveCountChanged().AsUnitObservable(),
-				source.ObserveReplace().AsUnitObservable()
+				source.ObserveReplace().AsUnitObservable(),
+				source.ObserveMove().AsUnitObservable()
 			).Select(_ => source);
 		}
 
