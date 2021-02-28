@@ -2,6 +2,14 @@
 
 namespace MackySoft.Modiferty.Modifiers {
 
+	public enum OperatorType {
+		Additive = 0,
+		Subtractive = 1,
+		Multiply = 2,
+		Division = 3,
+		Set = 4
+	}
+
 	public abstract class OperatorModifierBase<TRHS,TResult> : ModifieableProperty<TRHS>, IModifier<TResult> {
 
 		[SerializeField]

@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEngine;
 using MackySoft.Modiferty.Modifiers;
 
 namespace MackySoft.Modiferty {
@@ -70,8 +71,6 @@ namespace MackySoft.Modiferty {
 
 	}
 
-	#endregion
-
 	[Serializable]
 	public class ReactiveSetModifierFloat : ReactiveSetModifier<float> {
 		public ReactiveSetModifierFloat () : this(default) {
@@ -80,5 +79,44 @@ namespace MackySoft.Modiferty {
 		public ReactiveSetModifierFloat (float baseValue) : base(baseValue) {
 		}
 	}
+
+	[Serializable]
+	public class ReactiveOperatorModifierFloat : ReactiveOperatorModifierBase<float> {
+
+		[SerializeField]
+		OperatorType m_Type;
+
+		public ReactiveOperatorModifierFloat () {
+		}
+
+		public ReactiveOperatorModifierFloat (float baseValue) : base(baseValue) {
+		}
+
+		public OperatorType Type {
+			get => m_Type;
+			set => m_Type = value;
+		}
+
+		public override float Evaluate (float value) {
+			switch (m_Type) {
+				case OperatorType.Additive:
+					return value + Evaluate();
+				case OperatorType.Subtractive:
+					return value - Evaluate();
+				case OperatorType.Multiply:
+					return value * Evaluate();
+				case OperatorType.Division:
+					return value / Evaluate();
+				case OperatorType.Set:
+					return Evaluate();
+				default:
+					throw new NotSupportedException($"{nameof(OperatorType)}.{m_Type} does not supported.");
+			}
+		}
+	}
+
+	#endregion
+
+	
 
 }

@@ -93,8 +93,6 @@ namespace MackySoft.Modiferty {
 
 	}
 
-	#endregion
-
 	/// <summary>
 	/// The given value ignored and the returns specified value returned.
 	/// </summary>
@@ -103,5 +101,50 @@ namespace MackySoft.Modiferty {
 		public SetModifierInt (int value,int priority = 0) : base(value,priority) {
 		}
 	}
+
+	[Serializable]
+	public class OperatorModifierInt : OperatorModifierBase<float,int> {
+
+		[SerializeField]
+		OperatorType m_Type;
+
+		[SerializeField]
+		RoundingMethod m_RoundingMethod;
+
+		public OperatorType Type {
+			get => m_Type;
+			set => m_Type = value;
+		}
+
+		public RoundingMethod RoundingMethod {
+			get => m_RoundingMethod;
+			set => m_RoundingMethod = value;
+		}
+
+		public OperatorModifierInt () {
+		}
+
+		public OperatorModifierInt (float baseValue) : base(baseValue) {
+		}
+
+		public override int Evaluate (int value) {
+			switch (m_Type) {
+				case OperatorType.Additive:
+					return value + Evaluate().RoundToInt(m_RoundingMethod);
+				case OperatorType.Subtractive:
+					return value - Evaluate().RoundToInt(m_RoundingMethod);
+				case OperatorType.Multiply:
+					return (value * Evaluate()).RoundToInt(m_RoundingMethod);
+				case OperatorType.Division:
+					return (value / Evaluate()).RoundToInt(m_RoundingMethod);
+				case OperatorType.Set:
+					return Evaluate().RoundToInt(m_RoundingMethod);
+				default:
+					throw new NotSupportedException($"{nameof(OperatorType)}.{m_Type} does not supported.");
+			}
+		}
+	}
+
+	#endregion
 
 }
