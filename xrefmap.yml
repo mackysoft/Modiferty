@@ -1,0 +1,2368 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: MackySoft.Modiferty
+  name: MackySoft.Modiferty
+  href: api/MackySoft.Modiferty.html
+  commentId: N:MackySoft.Modiferty
+  fullName: MackySoft.Modiferty
+  nameWithType: MackySoft.Modiferty
+- uid: MackySoft.Modiferty.AdditiveModifierFloat
+  name: AdditiveModifierFloat
+  href: api/MackySoft.Modiferty.AdditiveModifierFloat.html
+  commentId: T:MackySoft.Modiferty.AdditiveModifierFloat
+  fullName: MackySoft.Modiferty.AdditiveModifierFloat
+  nameWithType: AdditiveModifierFloat
+- uid: MackySoft.Modiferty.AdditiveModifierFloat.#ctor
+  name: AdditiveModifierFloat()
+  href: api/MackySoft.Modiferty.AdditiveModifierFloat.html#MackySoft_Modiferty_AdditiveModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.AdditiveModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.AdditiveModifierFloat.AdditiveModifierFloat()
+  nameWithType: AdditiveModifierFloat.AdditiveModifierFloat()
+- uid: MackySoft.Modiferty.AdditiveModifierFloat.#ctor(System.Single)
+  name: AdditiveModifierFloat(Single)
+  href: api/MackySoft.Modiferty.AdditiveModifierFloat.html#MackySoft_Modiferty_AdditiveModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.AdditiveModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.AdditiveModifierFloat.AdditiveModifierFloat(System.Single)
+  nameWithType: AdditiveModifierFloat.AdditiveModifierFloat(Single)
+- uid: MackySoft.Modiferty.AdditiveModifierFloat.#ctor*
+  name: AdditiveModifierFloat
+  href: api/MackySoft.Modiferty.AdditiveModifierFloat.html#MackySoft_Modiferty_AdditiveModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.AdditiveModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.AdditiveModifierFloat.AdditiveModifierFloat
+  nameWithType: AdditiveModifierFloat.AdditiveModifierFloat
+- uid: MackySoft.Modiferty.AdditiveModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.AdditiveModifierFloat.html#MackySoft_Modiferty_AdditiveModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.AdditiveModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.AdditiveModifierFloat.Evaluate(System.Single)
+  nameWithType: AdditiveModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.AdditiveModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.AdditiveModifierFloat.html#MackySoft_Modiferty_AdditiveModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.AdditiveModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.AdditiveModifierFloat.Evaluate
+  nameWithType: AdditiveModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.AdditiveModifierInt
+  name: AdditiveModifierInt
+  href: api/MackySoft.Modiferty.AdditiveModifierInt.html
+  commentId: T:MackySoft.Modiferty.AdditiveModifierInt
+  fullName: MackySoft.Modiferty.AdditiveModifierInt
+  nameWithType: AdditiveModifierInt
+- uid: MackySoft.Modiferty.AdditiveModifierInt.#ctor
+  name: AdditiveModifierInt()
+  href: api/MackySoft.Modiferty.AdditiveModifierInt.html#MackySoft_Modiferty_AdditiveModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.AdditiveModifierInt.#ctor
+  fullName: MackySoft.Modiferty.AdditiveModifierInt.AdditiveModifierInt()
+  nameWithType: AdditiveModifierInt.AdditiveModifierInt()
+- uid: MackySoft.Modiferty.AdditiveModifierInt.#ctor(System.Int32)
+  name: AdditiveModifierInt(Int32)
+  href: api/MackySoft.Modiferty.AdditiveModifierInt.html#MackySoft_Modiferty_AdditiveModifierInt__ctor_System_Int32_
+  commentId: M:MackySoft.Modiferty.AdditiveModifierInt.#ctor(System.Int32)
+  fullName: MackySoft.Modiferty.AdditiveModifierInt.AdditiveModifierInt(System.Int32)
+  nameWithType: AdditiveModifierInt.AdditiveModifierInt(Int32)
+- uid: MackySoft.Modiferty.AdditiveModifierInt.#ctor*
+  name: AdditiveModifierInt
+  href: api/MackySoft.Modiferty.AdditiveModifierInt.html#MackySoft_Modiferty_AdditiveModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.AdditiveModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.AdditiveModifierInt.AdditiveModifierInt
+  nameWithType: AdditiveModifierInt.AdditiveModifierInt
+- uid: MackySoft.Modiferty.AdditiveModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.AdditiveModifierInt.html#MackySoft_Modiferty_AdditiveModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.AdditiveModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.AdditiveModifierInt.Evaluate(System.Int32)
+  nameWithType: AdditiveModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.AdditiveModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.AdditiveModifierInt.html#MackySoft_Modiferty_AdditiveModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.AdditiveModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.AdditiveModifierInt.Evaluate
+  nameWithType: AdditiveModifierInt.Evaluate
+- uid: MackySoft.Modiferty.CreateModifier`1
+  name: CreateModifier<T>
+  href: api/MackySoft.Modiferty.CreateModifier-1.html
+  commentId: T:MackySoft.Modiferty.CreateModifier`1
+  name.vb: CreateModifier(Of T)
+  fullName: MackySoft.Modiferty.CreateModifier<T>
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T)
+  nameWithType: CreateModifier<T>
+  nameWithType.vb: CreateModifier(Of T)
+- uid: MackySoft.Modiferty.CreateModifier`1.#ctor(Func{`0,`0},System.Int32)
+  name: CreateModifier(Func<T, T>, Int32)
+  href: api/MackySoft.Modiferty.CreateModifier-1.html#MackySoft_Modiferty_CreateModifier_1__ctor_Func__0__0__System_Int32_
+  commentId: M:MackySoft.Modiferty.CreateModifier`1.#ctor(Func{`0,`0},System.Int32)
+  name.vb: CreateModifier(Func(Of T, T), Int32)
+  fullName: MackySoft.Modiferty.CreateModifier<T>.CreateModifier(Func<T, T>, System.Int32)
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T).CreateModifier(Func(Of T, T), System.Int32)
+  nameWithType: CreateModifier<T>.CreateModifier(Func<T, T>, Int32)
+  nameWithType.vb: CreateModifier(Of T).CreateModifier(Func(Of T, T), Int32)
+- uid: MackySoft.Modiferty.CreateModifier`1.#ctor*
+  name: CreateModifier
+  href: api/MackySoft.Modiferty.CreateModifier-1.html#MackySoft_Modiferty_CreateModifier_1__ctor_
+  commentId: Overload:MackySoft.Modiferty.CreateModifier`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.CreateModifier<T>.CreateModifier
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T).CreateModifier
+  nameWithType: CreateModifier<T>.CreateModifier
+  nameWithType.vb: CreateModifier(Of T).CreateModifier
+- uid: MackySoft.Modiferty.CreateModifier`1.Evaluate(`0)
+  name: Evaluate(T)
+  href: api/MackySoft.Modiferty.CreateModifier-1.html#MackySoft_Modiferty_CreateModifier_1_Evaluate__0_
+  commentId: M:MackySoft.Modiferty.CreateModifier`1.Evaluate(`0)
+  fullName: MackySoft.Modiferty.CreateModifier<T>.Evaluate(T)
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T).Evaluate(T)
+  nameWithType: CreateModifier<T>.Evaluate(T)
+  nameWithType.vb: CreateModifier(Of T).Evaluate(T)
+- uid: MackySoft.Modiferty.CreateModifier`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.CreateModifier-1.html#MackySoft_Modiferty_CreateModifier_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.CreateModifier`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.CreateModifier<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T).Evaluate
+  nameWithType: CreateModifier<T>.Evaluate
+  nameWithType.vb: CreateModifier(Of T).Evaluate
+- uid: MackySoft.Modiferty.CreateModifier`1.Evaluator
+  name: Evaluator
+  href: api/MackySoft.Modiferty.CreateModifier-1.html#MackySoft_Modiferty_CreateModifier_1_Evaluator
+  commentId: P:MackySoft.Modiferty.CreateModifier`1.Evaluator
+  fullName: MackySoft.Modiferty.CreateModifier<T>.Evaluator
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T).Evaluator
+  nameWithType: CreateModifier<T>.Evaluator
+  nameWithType.vb: CreateModifier(Of T).Evaluator
+- uid: MackySoft.Modiferty.CreateModifier`1.Evaluator*
+  name: Evaluator
+  href: api/MackySoft.Modiferty.CreateModifier-1.html#MackySoft_Modiferty_CreateModifier_1_Evaluator_
+  commentId: Overload:MackySoft.Modiferty.CreateModifier`1.Evaluator
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.CreateModifier<T>.Evaluator
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T).Evaluator
+  nameWithType: CreateModifier<T>.Evaluator
+  nameWithType.vb: CreateModifier(Of T).Evaluator
+- uid: MackySoft.Modiferty.CreateModifier`1.Priority
+  name: Priority
+  href: api/MackySoft.Modiferty.CreateModifier-1.html#MackySoft_Modiferty_CreateModifier_1_Priority
+  commentId: P:MackySoft.Modiferty.CreateModifier`1.Priority
+  fullName: MackySoft.Modiferty.CreateModifier<T>.Priority
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T).Priority
+  nameWithType: CreateModifier<T>.Priority
+  nameWithType.vb: CreateModifier(Of T).Priority
+- uid: MackySoft.Modiferty.CreateModifier`1.Priority*
+  name: Priority
+  href: api/MackySoft.Modiferty.CreateModifier-1.html#MackySoft_Modiferty_CreateModifier_1_Priority_
+  commentId: Overload:MackySoft.Modiferty.CreateModifier`1.Priority
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.CreateModifier<T>.Priority
+  fullName.vb: MackySoft.Modiferty.CreateModifier(Of T).Priority
+  nameWithType: CreateModifier<T>.Priority
+  nameWithType.vb: CreateModifier(Of T).Priority
+- uid: MackySoft.Modiferty.DivisionModifierFloat
+  name: DivisionModifierFloat
+  href: api/MackySoft.Modiferty.DivisionModifierFloat.html
+  commentId: T:MackySoft.Modiferty.DivisionModifierFloat
+  fullName: MackySoft.Modiferty.DivisionModifierFloat
+  nameWithType: DivisionModifierFloat
+- uid: MackySoft.Modiferty.DivisionModifierFloat.#ctor
+  name: DivisionModifierFloat()
+  href: api/MackySoft.Modiferty.DivisionModifierFloat.html#MackySoft_Modiferty_DivisionModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.DivisionModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.DivisionModifierFloat.DivisionModifierFloat()
+  nameWithType: DivisionModifierFloat.DivisionModifierFloat()
+- uid: MackySoft.Modiferty.DivisionModifierFloat.#ctor(System.Single)
+  name: DivisionModifierFloat(Single)
+  href: api/MackySoft.Modiferty.DivisionModifierFloat.html#MackySoft_Modiferty_DivisionModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.DivisionModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.DivisionModifierFloat.DivisionModifierFloat(System.Single)
+  nameWithType: DivisionModifierFloat.DivisionModifierFloat(Single)
+- uid: MackySoft.Modiferty.DivisionModifierFloat.#ctor*
+  name: DivisionModifierFloat
+  href: api/MackySoft.Modiferty.DivisionModifierFloat.html#MackySoft_Modiferty_DivisionModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.DivisionModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.DivisionModifierFloat.DivisionModifierFloat
+  nameWithType: DivisionModifierFloat.DivisionModifierFloat
+- uid: MackySoft.Modiferty.DivisionModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.DivisionModifierFloat.html#MackySoft_Modiferty_DivisionModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.DivisionModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.DivisionModifierFloat.Evaluate(System.Single)
+  nameWithType: DivisionModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.DivisionModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.DivisionModifierFloat.html#MackySoft_Modiferty_DivisionModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.DivisionModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.DivisionModifierFloat.Evaluate
+  nameWithType: DivisionModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.DivisionModifierInt
+  name: DivisionModifierInt
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html
+  commentId: T:MackySoft.Modiferty.DivisionModifierInt
+  fullName: MackySoft.Modiferty.DivisionModifierInt
+  nameWithType: DivisionModifierInt
+- uid: MackySoft.Modiferty.DivisionModifierInt.#ctor
+  name: DivisionModifierInt()
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html#MackySoft_Modiferty_DivisionModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.DivisionModifierInt.#ctor
+  fullName: MackySoft.Modiferty.DivisionModifierInt.DivisionModifierInt()
+  nameWithType: DivisionModifierInt.DivisionModifierInt()
+- uid: MackySoft.Modiferty.DivisionModifierInt.#ctor(System.Single)
+  name: DivisionModifierInt(Single)
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html#MackySoft_Modiferty_DivisionModifierInt__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.DivisionModifierInt.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.DivisionModifierInt.DivisionModifierInt(System.Single)
+  nameWithType: DivisionModifierInt.DivisionModifierInt(Single)
+- uid: MackySoft.Modiferty.DivisionModifierInt.#ctor(System.Single,MackySoft.Modiferty.RoundingMethod)
+  name: DivisionModifierInt(Single, RoundingMethod)
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html#MackySoft_Modiferty_DivisionModifierInt__ctor_System_Single_MackySoft_Modiferty_RoundingMethod_
+  commentId: M:MackySoft.Modiferty.DivisionModifierInt.#ctor(System.Single,MackySoft.Modiferty.RoundingMethod)
+  fullName: MackySoft.Modiferty.DivisionModifierInt.DivisionModifierInt(System.Single, MackySoft.Modiferty.RoundingMethod)
+  nameWithType: DivisionModifierInt.DivisionModifierInt(Single, RoundingMethod)
+- uid: MackySoft.Modiferty.DivisionModifierInt.#ctor*
+  name: DivisionModifierInt
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html#MackySoft_Modiferty_DivisionModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.DivisionModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.DivisionModifierInt.DivisionModifierInt
+  nameWithType: DivisionModifierInt.DivisionModifierInt
+- uid: MackySoft.Modiferty.DivisionModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html#MackySoft_Modiferty_DivisionModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.DivisionModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.DivisionModifierInt.Evaluate(System.Int32)
+  nameWithType: DivisionModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.DivisionModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html#MackySoft_Modiferty_DivisionModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.DivisionModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.DivisionModifierInt.Evaluate
+  nameWithType: DivisionModifierInt.Evaluate
+- uid: MackySoft.Modiferty.DivisionModifierInt.RoundingMethod
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html#MackySoft_Modiferty_DivisionModifierInt_RoundingMethod
+  commentId: P:MackySoft.Modiferty.DivisionModifierInt.RoundingMethod
+  fullName: MackySoft.Modiferty.DivisionModifierInt.RoundingMethod
+  nameWithType: DivisionModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.DivisionModifierInt.RoundingMethod*
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.DivisionModifierInt.html#MackySoft_Modiferty_DivisionModifierInt_RoundingMethod_
+  commentId: Overload:MackySoft.Modiferty.DivisionModifierInt.RoundingMethod
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.DivisionModifierInt.RoundingMethod
+  nameWithType: DivisionModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.IModifiableProperty`1
+  name: IModifiableProperty<T>
+  href: api/MackySoft.Modiferty.IModifiableProperty-1.html
+  commentId: T:MackySoft.Modiferty.IModifiableProperty`1
+  name.vb: IModifiableProperty(Of T)
+  fullName: MackySoft.Modiferty.IModifiableProperty<T>
+  fullName.vb: MackySoft.Modiferty.IModifiableProperty(Of T)
+  nameWithType: IModifiableProperty<T>
+  nameWithType.vb: IModifiableProperty(Of T)
+- uid: MackySoft.Modiferty.IModifiableProperty`1.BaseValue
+  name: BaseValue
+  href: api/MackySoft.Modiferty.IModifiableProperty-1.html#MackySoft_Modiferty_IModifiableProperty_1_BaseValue
+  commentId: P:MackySoft.Modiferty.IModifiableProperty`1.BaseValue
+  fullName: MackySoft.Modiferty.IModifiableProperty<T>.BaseValue
+  fullName.vb: MackySoft.Modiferty.IModifiableProperty(Of T).BaseValue
+  nameWithType: IModifiableProperty<T>.BaseValue
+  nameWithType.vb: IModifiableProperty(Of T).BaseValue
+- uid: MackySoft.Modiferty.IModifiableProperty`1.BaseValue*
+  name: BaseValue
+  href: api/MackySoft.Modiferty.IModifiableProperty-1.html#MackySoft_Modiferty_IModifiableProperty_1_BaseValue_
+  commentId: Overload:MackySoft.Modiferty.IModifiableProperty`1.BaseValue
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifiableProperty<T>.BaseValue
+  fullName.vb: MackySoft.Modiferty.IModifiableProperty(Of T).BaseValue
+  nameWithType: IModifiableProperty<T>.BaseValue
+  nameWithType.vb: IModifiableProperty(Of T).BaseValue
+- uid: MackySoft.Modiferty.IModifiableProperty`1.Modifiers
+  name: Modifiers
+  href: api/MackySoft.Modiferty.IModifiableProperty-1.html#MackySoft_Modiferty_IModifiableProperty_1_Modifiers
+  commentId: P:MackySoft.Modiferty.IModifiableProperty`1.Modifiers
+  fullName: MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.IModifiableProperty(Of T).Modifiers
+  nameWithType: IModifiableProperty<T>.Modifiers
+  nameWithType.vb: IModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.IModifiableProperty`1.Modifiers*
+  name: Modifiers
+  href: api/MackySoft.Modiferty.IModifiableProperty-1.html#MackySoft_Modiferty_IModifiableProperty_1_Modifiers_
+  commentId: Overload:MackySoft.Modiferty.IModifiableProperty`1.Modifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.IModifiableProperty(Of T).Modifiers
+  nameWithType: IModifiableProperty<T>.Modifiers
+  nameWithType.vb: IModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions
+  name: IModifiablePropertyExtensions
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html
+  commentId: T:MackySoft.Modiferty.IModifiablePropertyExtensions
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions
+  nameWithType: IModifiablePropertyExtensions
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifier*
+  name: AddModifier
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_AddModifier_
+  commentId: Overload:MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifier
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifier
+  nameWithType: IModifiablePropertyExtensions.AddModifier
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifier``1(MackySoft.Modiferty.IModifiableProperty{``0},MackySoft.Modiferty.IModifier{``0})
+  name: AddModifier<T>(IModifiableProperty<T>, IModifier<T>)
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_AddModifier__1_MackySoft_Modiferty_IModifiableProperty___0__MackySoft_Modiferty_IModifier___0__
+  commentId: M:MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifier``1(MackySoft.Modiferty.IModifiableProperty{``0},MackySoft.Modiferty.IModifier{``0})
+  name.vb: AddModifier(Of T)(IModifiableProperty(Of T), IModifier(Of T))
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifier<T>(MackySoft.Modiferty.IModifiableProperty<T>, MackySoft.Modiferty.IModifier<T>)
+  fullName.vb: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifier(Of T)(MackySoft.Modiferty.IModifiableProperty(Of T), MackySoft.Modiferty.IModifier(Of T))
+  nameWithType: IModifiablePropertyExtensions.AddModifier<T>(IModifiableProperty<T>, IModifier<T>)
+  nameWithType.vb: IModifiablePropertyExtensions.AddModifier(Of T)(IModifiableProperty(Of T), IModifier(Of T))
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifierAsDisposable*
+  name: AddModifierAsDisposable
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_AddModifierAsDisposable_
+  commentId: Overload:MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifierAsDisposable
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifierAsDisposable
+  nameWithType: IModifiablePropertyExtensions.AddModifierAsDisposable
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifierAsDisposable``1(MackySoft.Modiferty.IModifiableProperty{``0},MackySoft.Modiferty.IModifier{``0})
+  name: AddModifierAsDisposable<T>(IModifiableProperty<T>, IModifier<T>)
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_AddModifierAsDisposable__1_MackySoft_Modiferty_IModifiableProperty___0__MackySoft_Modiferty_IModifier___0__
+  commentId: M:MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifierAsDisposable``1(MackySoft.Modiferty.IModifiableProperty{``0},MackySoft.Modiferty.IModifier{``0})
+  name.vb: AddModifierAsDisposable(Of T)(IModifiableProperty(Of T), IModifier(Of T))
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifierAsDisposable<T>(MackySoft.Modiferty.IModifiableProperty<T>, MackySoft.Modiferty.IModifier<T>)
+  fullName.vb: MackySoft.Modiferty.IModifiablePropertyExtensions.AddModifierAsDisposable(Of T)(MackySoft.Modiferty.IModifiableProperty(Of T), MackySoft.Modiferty.IModifier(Of T))
+  nameWithType: IModifiablePropertyExtensions.AddModifierAsDisposable<T>(IModifiableProperty<T>, IModifier<T>)
+  nameWithType.vb: IModifiablePropertyExtensions.AddModifierAsDisposable(Of T)(IModifiableProperty(Of T), IModifier(Of T))
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.ClearModifiers*
+  name: ClearModifiers
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_ClearModifiers_
+  commentId: Overload:MackySoft.Modiferty.IModifiablePropertyExtensions.ClearModifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.ClearModifiers
+  nameWithType: IModifiablePropertyExtensions.ClearModifiers
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.ClearModifiers``1(MackySoft.Modiferty.IModifiableProperty{``0})
+  name: ClearModifiers<T>(IModifiableProperty<T>)
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_ClearModifiers__1_MackySoft_Modiferty_IModifiableProperty___0__
+  commentId: M:MackySoft.Modiferty.IModifiablePropertyExtensions.ClearModifiers``1(MackySoft.Modiferty.IModifiableProperty{``0})
+  name.vb: ClearModifiers(Of T)(IModifiableProperty(Of T))
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.ClearModifiers<T>(MackySoft.Modiferty.IModifiableProperty<T>)
+  fullName.vb: MackySoft.Modiferty.IModifiablePropertyExtensions.ClearModifiers(Of T)(MackySoft.Modiferty.IModifiableProperty(Of T))
+  nameWithType: IModifiablePropertyExtensions.ClearModifiers<T>(IModifiableProperty<T>)
+  nameWithType.vb: IModifiablePropertyExtensions.ClearModifiers(Of T)(IModifiableProperty(Of T))
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.ContainsModifier*
+  name: ContainsModifier
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_ContainsModifier_
+  commentId: Overload:MackySoft.Modiferty.IModifiablePropertyExtensions.ContainsModifier
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.ContainsModifier
+  nameWithType: IModifiablePropertyExtensions.ContainsModifier
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.ContainsModifier``1(MackySoft.Modiferty.IReadOnlyModifiableProperty{``0},MackySoft.Modiferty.IModifier{``0})
+  name: ContainsModifier<T>(IReadOnlyModifiableProperty<T>, IModifier<T>)
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_ContainsModifier__1_MackySoft_Modiferty_IReadOnlyModifiableProperty___0__MackySoft_Modiferty_IModifier___0__
+  commentId: M:MackySoft.Modiferty.IModifiablePropertyExtensions.ContainsModifier``1(MackySoft.Modiferty.IReadOnlyModifiableProperty{``0},MackySoft.Modiferty.IModifier{``0})
+  name.vb: ContainsModifier(Of T)(IReadOnlyModifiableProperty(Of T), IModifier(Of T))
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.ContainsModifier<T>(MackySoft.Modiferty.IReadOnlyModifiableProperty<T>, MackySoft.Modiferty.IModifier<T>)
+  fullName.vb: MackySoft.Modiferty.IModifiablePropertyExtensions.ContainsModifier(Of T)(MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T), MackySoft.Modiferty.IModifier(Of T))
+  nameWithType: IModifiablePropertyExtensions.ContainsModifier<T>(IReadOnlyModifiableProperty<T>, IModifier<T>)
+  nameWithType.vb: IModifiablePropertyExtensions.ContainsModifier(Of T)(IReadOnlyModifiableProperty(Of T), IModifier(Of T))
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.RemoveModifier*
+  name: RemoveModifier
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_RemoveModifier_
+  commentId: Overload:MackySoft.Modiferty.IModifiablePropertyExtensions.RemoveModifier
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.RemoveModifier
+  nameWithType: IModifiablePropertyExtensions.RemoveModifier
+- uid: MackySoft.Modiferty.IModifiablePropertyExtensions.RemoveModifier``1(MackySoft.Modiferty.IModifiableProperty{``0},MackySoft.Modiferty.IModifier{``0})
+  name: RemoveModifier<T>(IModifiableProperty<T>, IModifier<T>)
+  href: api/MackySoft.Modiferty.IModifiablePropertyExtensions.html#MackySoft_Modiferty_IModifiablePropertyExtensions_RemoveModifier__1_MackySoft_Modiferty_IModifiableProperty___0__MackySoft_Modiferty_IModifier___0__
+  commentId: M:MackySoft.Modiferty.IModifiablePropertyExtensions.RemoveModifier``1(MackySoft.Modiferty.IModifiableProperty{``0},MackySoft.Modiferty.IModifier{``0})
+  name.vb: RemoveModifier(Of T)(IModifiableProperty(Of T), IModifier(Of T))
+  fullName: MackySoft.Modiferty.IModifiablePropertyExtensions.RemoveModifier<T>(MackySoft.Modiferty.IModifiableProperty<T>, MackySoft.Modiferty.IModifier<T>)
+  fullName.vb: MackySoft.Modiferty.IModifiablePropertyExtensions.RemoveModifier(Of T)(MackySoft.Modiferty.IModifiableProperty(Of T), MackySoft.Modiferty.IModifier(Of T))
+  nameWithType: IModifiablePropertyExtensions.RemoveModifier<T>(IModifiableProperty<T>, IModifier<T>)
+  nameWithType.vb: IModifiablePropertyExtensions.RemoveModifier(Of T)(IModifiableProperty(Of T), IModifier(Of T))
+- uid: MackySoft.Modiferty.IModifier
+  name: IModifier
+  href: api/MackySoft.Modiferty.IModifier.html
+  commentId: T:MackySoft.Modiferty.IModifier
+  fullName: MackySoft.Modiferty.IModifier
+  nameWithType: IModifier
+- uid: MackySoft.Modiferty.IModifier.Priority
+  name: Priority
+  href: api/MackySoft.Modiferty.IModifier.html#MackySoft_Modiferty_IModifier_Priority
+  commentId: P:MackySoft.Modiferty.IModifier.Priority
+  fullName: MackySoft.Modiferty.IModifier.Priority
+  nameWithType: IModifier.Priority
+- uid: MackySoft.Modiferty.IModifier.Priority*
+  name: Priority
+  href: api/MackySoft.Modiferty.IModifier.html#MackySoft_Modiferty_IModifier_Priority_
+  commentId: Overload:MackySoft.Modiferty.IModifier.Priority
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifier.Priority
+  nameWithType: IModifier.Priority
+- uid: MackySoft.Modiferty.IModifier`1
+  name: IModifier<T>
+  href: api/MackySoft.Modiferty.IModifier-1.html
+  commentId: T:MackySoft.Modiferty.IModifier`1
+  name.vb: IModifier(Of T)
+  fullName: MackySoft.Modiferty.IModifier<T>
+  fullName.vb: MackySoft.Modiferty.IModifier(Of T)
+  nameWithType: IModifier<T>
+  nameWithType.vb: IModifier(Of T)
+- uid: MackySoft.Modiferty.IModifier`1.Evaluate(`0)
+  name: Evaluate(T)
+  href: api/MackySoft.Modiferty.IModifier-1.html#MackySoft_Modiferty_IModifier_1_Evaluate__0_
+  commentId: M:MackySoft.Modiferty.IModifier`1.Evaluate(`0)
+  fullName: MackySoft.Modiferty.IModifier<T>.Evaluate(T)
+  fullName.vb: MackySoft.Modiferty.IModifier(Of T).Evaluate(T)
+  nameWithType: IModifier<T>.Evaluate(T)
+  nameWithType.vb: IModifier(Of T).Evaluate(T)
+- uid: MackySoft.Modiferty.IModifier`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.IModifier-1.html#MackySoft_Modiferty_IModifier_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.IModifier`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifier<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.IModifier(Of T).Evaluate
+  nameWithType: IModifier<T>.Evaluate
+  nameWithType.vb: IModifier(Of T).Evaluate
+- uid: MackySoft.Modiferty.IModifierList`1
+  name: IModifierList<T>
+  href: api/MackySoft.Modiferty.IModifierList-1.html
+  commentId: T:MackySoft.Modiferty.IModifierList`1
+  name.vb: IModifierList(Of T)
+  fullName: MackySoft.Modiferty.IModifierList<T>
+  fullName.vb: MackySoft.Modiferty.IModifierList(Of T)
+  nameWithType: IModifierList<T>
+  nameWithType.vb: IModifierList(Of T)
+- uid: MackySoft.Modiferty.IModifierList`1.Count
+  name: Count
+  href: api/MackySoft.Modiferty.IModifierList-1.html#MackySoft_Modiferty_IModifierList_1_Count
+  commentId: P:MackySoft.Modiferty.IModifierList`1.Count
+  fullName: MackySoft.Modiferty.IModifierList<T>.Count
+  fullName.vb: MackySoft.Modiferty.IModifierList(Of T).Count
+  nameWithType: IModifierList<T>.Count
+  nameWithType.vb: IModifierList(Of T).Count
+- uid: MackySoft.Modiferty.IModifierList`1.Count*
+  name: Count
+  href: api/MackySoft.Modiferty.IModifierList-1.html#MackySoft_Modiferty_IModifierList_1_Count_
+  commentId: Overload:MackySoft.Modiferty.IModifierList`1.Count
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IModifierList<T>.Count
+  fullName.vb: MackySoft.Modiferty.IModifierList(Of T).Count
+  nameWithType: IModifierList<T>.Count
+  nameWithType.vb: IModifierList(Of T).Count
+- uid: MackySoft.Modiferty.IReactiveModifiableProperty`1
+  name: IReactiveModifiableProperty<T>
+  href: api/MackySoft.Modiferty.IReactiveModifiableProperty-1.html
+  commentId: T:MackySoft.Modiferty.IReactiveModifiableProperty`1
+  name.vb: IReactiveModifiableProperty(Of T)
+  fullName: MackySoft.Modiferty.IReactiveModifiableProperty<T>
+  fullName.vb: MackySoft.Modiferty.IReactiveModifiableProperty(Of T)
+  nameWithType: IReactiveModifiableProperty<T>
+  nameWithType.vb: IReactiveModifiableProperty(Of T)
+- uid: MackySoft.Modiferty.IReactiveModifiableProperty`1.Modifiers
+  name: Modifiers
+  href: api/MackySoft.Modiferty.IReactiveModifiableProperty-1.html#MackySoft_Modiferty_IReactiveModifiableProperty_1_Modifiers
+  commentId: P:MackySoft.Modiferty.IReactiveModifiableProperty`1.Modifiers
+  fullName: MackySoft.Modiferty.IReactiveModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.IReactiveModifiableProperty(Of T).Modifiers
+  nameWithType: IReactiveModifiableProperty<T>.Modifiers
+  nameWithType.vb: IReactiveModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.IReactiveModifiableProperty`1.Modifiers*
+  name: Modifiers
+  href: api/MackySoft.Modiferty.IReactiveModifiableProperty-1.html#MackySoft_Modiferty_IReactiveModifiableProperty_1_Modifiers_
+  commentId: Overload:MackySoft.Modiferty.IReactiveModifiableProperty`1.Modifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IReactiveModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.IReactiveModifiableProperty(Of T).Modifiers
+  nameWithType: IReactiveModifiableProperty<T>.Modifiers
+  nameWithType.vb: IReactiveModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.IReactiveModifierList`1
+  name: IReactiveModifierList<T>
+  href: api/MackySoft.Modiferty.IReactiveModifierList-1.html
+  commentId: T:MackySoft.Modiferty.IReactiveModifierList`1
+  name.vb: IReactiveModifierList(Of T)
+  fullName: MackySoft.Modiferty.IReactiveModifierList<T>
+  fullName.vb: MackySoft.Modiferty.IReactiveModifierList(Of T)
+  nameWithType: IReactiveModifierList<T>
+  nameWithType.vb: IReactiveModifierList(Of T)
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1
+  name: IReadOnlyModifiableProperty<T>
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html
+  commentId: T:MackySoft.Modiferty.IReadOnlyModifiableProperty`1
+  name.vb: IReadOnlyModifiableProperty(Of T)
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T)
+  nameWithType: IReadOnlyModifiableProperty<T>
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T)
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1.BaseValue
+  name: BaseValue
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyModifiableProperty_1_BaseValue
+  commentId: P:MackySoft.Modiferty.IReadOnlyModifiableProperty`1.BaseValue
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.BaseValue
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T).BaseValue
+  nameWithType: IReadOnlyModifiableProperty<T>.BaseValue
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T).BaseValue
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1.BaseValue*
+  name: BaseValue
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyModifiableProperty_1_BaseValue_
+  commentId: Overload:MackySoft.Modiferty.IReadOnlyModifiableProperty`1.BaseValue
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.BaseValue
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T).BaseValue
+  nameWithType: IReadOnlyModifiableProperty<T>.BaseValue
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T).BaseValue
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1.Evaluate
+  name: Evaluate()
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyModifiableProperty_1_Evaluate
+  commentId: M:MackySoft.Modiferty.IReadOnlyModifiableProperty`1.Evaluate
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Evaluate()
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T).Evaluate()
+  nameWithType: IReadOnlyModifiableProperty<T>.Evaluate()
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T).Evaluate()
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyModifiableProperty_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.IReadOnlyModifiableProperty`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T).Evaluate
+  nameWithType: IReadOnlyModifiableProperty<T>.Evaluate
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T).Evaluate
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1.HasModifiers
+  name: HasModifiers
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyModifiableProperty_1_HasModifiers
+  commentId: P:MackySoft.Modiferty.IReadOnlyModifiableProperty`1.HasModifiers
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.HasModifiers
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T).HasModifiers
+  nameWithType: IReadOnlyModifiableProperty<T>.HasModifiers
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T).HasModifiers
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1.HasModifiers*
+  name: HasModifiers
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyModifiableProperty_1_HasModifiers_
+  commentId: Overload:MackySoft.Modiferty.IReadOnlyModifiableProperty`1.HasModifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.HasModifiers
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T).HasModifiers
+  nameWithType: IReadOnlyModifiableProperty<T>.HasModifiers
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T).HasModifiers
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1.Modifiers
+  name: Modifiers
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyModifiableProperty_1_Modifiers
+  commentId: P:MackySoft.Modiferty.IReadOnlyModifiableProperty`1.Modifiers
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T).Modifiers
+  nameWithType: IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.IReadOnlyModifiableProperty`1.Modifiers*
+  name: Modifiers
+  href: api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyModifiableProperty_1_Modifiers_
+  commentId: Overload:MackySoft.Modiferty.IReadOnlyModifiableProperty`1.Modifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty(Of T).Modifiers
+  nameWithType: IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType.vb: IReadOnlyModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.IReadOnlyModifierList`1
+  name: IReadOnlyModifierList<T>
+  href: api/MackySoft.Modiferty.IReadOnlyModifierList-1.html
+  commentId: T:MackySoft.Modiferty.IReadOnlyModifierList`1
+  name.vb: IReadOnlyModifierList(Of T)
+  fullName: MackySoft.Modiferty.IReadOnlyModifierList<T>
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifierList(Of T)
+  nameWithType: IReadOnlyModifierList<T>
+  nameWithType.vb: IReadOnlyModifierList(Of T)
+- uid: MackySoft.Modiferty.IReadOnlyModifierList`1.Evaluate(`0)
+  name: Evaluate(T)
+  href: api/MackySoft.Modiferty.IReadOnlyModifierList-1.html#MackySoft_Modiferty_IReadOnlyModifierList_1_Evaluate__0_
+  commentId: M:MackySoft.Modiferty.IReadOnlyModifierList`1.Evaluate(`0)
+  fullName: MackySoft.Modiferty.IReadOnlyModifierList<T>.Evaluate(T)
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifierList(Of T).Evaluate(T)
+  nameWithType: IReadOnlyModifierList<T>.Evaluate(T)
+  nameWithType.vb: IReadOnlyModifierList(Of T).Evaluate(T)
+- uid: MackySoft.Modiferty.IReadOnlyModifierList`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.IReadOnlyModifierList-1.html#MackySoft_Modiferty_IReadOnlyModifierList_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.IReadOnlyModifierList`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IReadOnlyModifierList<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.IReadOnlyModifierList(Of T).Evaluate
+  nameWithType: IReadOnlyModifierList<T>.Evaluate
+  nameWithType.vb: IReadOnlyModifierList(Of T).Evaluate
+- uid: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty`1
+  name: IReadOnlyReactiveModifiableProperty<T>
+  href: api/MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty-1.html
+  commentId: T:MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty`1
+  name.vb: IReadOnlyReactiveModifiableProperty(Of T)
+  fullName: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>
+  fullName.vb: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty(Of T)
+  nameWithType: IReadOnlyReactiveModifiableProperty<T>
+  nameWithType.vb: IReadOnlyReactiveModifiableProperty(Of T)
+- uid: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty`1.Modifiers
+  name: Modifiers
+  href: api/MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyReactiveModifiableProperty_1_Modifiers
+  commentId: P:MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty`1.Modifiers
+  fullName: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty(Of T).Modifiers
+  nameWithType: IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  nameWithType.vb: IReadOnlyReactiveModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty`1.Modifiers*
+  name: Modifiers
+  href: api/MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty-1.html#MackySoft_Modiferty_IReadOnlyReactiveModifiableProperty_1_Modifiers_
+  commentId: Overload:MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty`1.Modifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty(Of T).Modifiers
+  nameWithType: IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  nameWithType.vb: IReadOnlyReactiveModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.IReadOnlyReactiveModifierList`1
+  name: IReadOnlyReactiveModifierList<T>
+  href: api/MackySoft.Modiferty.IReadOnlyReactiveModifierList-1.html
+  commentId: T:MackySoft.Modiferty.IReadOnlyReactiveModifierList`1
+  name.vb: IReadOnlyReactiveModifierList(Of T)
+  fullName: MackySoft.Modiferty.IReadOnlyReactiveModifierList<T>
+  fullName.vb: MackySoft.Modiferty.IReadOnlyReactiveModifierList(Of T)
+  nameWithType: IReadOnlyReactiveModifierList<T>
+  nameWithType.vb: IReadOnlyReactiveModifierList(Of T)
+- uid: MackySoft.Modiferty.ModifiableFloat
+  name: ModifiableFloat
+  href: api/MackySoft.Modiferty.ModifiableFloat.html
+  commentId: T:MackySoft.Modiferty.ModifiableFloat
+  fullName: MackySoft.Modiferty.ModifiableFloat
+  nameWithType: ModifiableFloat
+- uid: MackySoft.Modiferty.ModifiableFloat.#ctor
+  name: ModifiableFloat()
+  href: api/MackySoft.Modiferty.ModifiableFloat.html#MackySoft_Modiferty_ModifiableFloat__ctor
+  commentId: M:MackySoft.Modiferty.ModifiableFloat.#ctor
+  fullName: MackySoft.Modiferty.ModifiableFloat.ModifiableFloat()
+  nameWithType: ModifiableFloat.ModifiableFloat()
+- uid: MackySoft.Modiferty.ModifiableFloat.#ctor(System.Single)
+  name: ModifiableFloat(Single)
+  href: api/MackySoft.Modiferty.ModifiableFloat.html#MackySoft_Modiferty_ModifiableFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ModifiableFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ModifiableFloat.ModifiableFloat(System.Single)
+  nameWithType: ModifiableFloat.ModifiableFloat(Single)
+- uid: MackySoft.Modiferty.ModifiableFloat.#ctor*
+  name: ModifiableFloat
+  href: api/MackySoft.Modiferty.ModifiableFloat.html#MackySoft_Modiferty_ModifiableFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.ModifiableFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifiableFloat.ModifiableFloat
+  nameWithType: ModifiableFloat.ModifiableFloat
+- uid: MackySoft.Modiferty.ModifiableInt
+  name: ModifiableInt
+  href: api/MackySoft.Modiferty.ModifiableInt.html
+  commentId: T:MackySoft.Modiferty.ModifiableInt
+  fullName: MackySoft.Modiferty.ModifiableInt
+  nameWithType: ModifiableInt
+- uid: MackySoft.Modiferty.ModifiableInt.#ctor
+  name: ModifiableInt()
+  href: api/MackySoft.Modiferty.ModifiableInt.html#MackySoft_Modiferty_ModifiableInt__ctor
+  commentId: M:MackySoft.Modiferty.ModifiableInt.#ctor
+  fullName: MackySoft.Modiferty.ModifiableInt.ModifiableInt()
+  nameWithType: ModifiableInt.ModifiableInt()
+- uid: MackySoft.Modiferty.ModifiableInt.#ctor(System.Int32)
+  name: ModifiableInt(Int32)
+  href: api/MackySoft.Modiferty.ModifiableInt.html#MackySoft_Modiferty_ModifiableInt__ctor_System_Int32_
+  commentId: M:MackySoft.Modiferty.ModifiableInt.#ctor(System.Int32)
+  fullName: MackySoft.Modiferty.ModifiableInt.ModifiableInt(System.Int32)
+  nameWithType: ModifiableInt.ModifiableInt(Int32)
+- uid: MackySoft.Modiferty.ModifiableInt.#ctor*
+  name: ModifiableInt
+  href: api/MackySoft.Modiferty.ModifiableInt.html#MackySoft_Modiferty_ModifiableInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.ModifiableInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifiableInt.ModifiableInt
+  nameWithType: ModifiableInt.ModifiableInt
+- uid: MackySoft.Modiferty.ModifiablePropertyDrawer
+  name: ModifiablePropertyDrawer
+  href: api/MackySoft.Modiferty.ModifiablePropertyDrawer.html
+  commentId: T:MackySoft.Modiferty.ModifiablePropertyDrawer
+  fullName: MackySoft.Modiferty.ModifiablePropertyDrawer
+  nameWithType: ModifiablePropertyDrawer
+- uid: MackySoft.Modiferty.ModifiablePropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: api/MackySoft.Modiferty.ModifiablePropertyDrawer.html#MackySoft_Modiferty_ModifiablePropertyDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:MackySoft.Modiferty.ModifiablePropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: MackySoft.Modiferty.ModifiablePropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: ModifiablePropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: MackySoft.Modiferty.ModifiablePropertyDrawer.OnGUI*
+  name: OnGUI
+  href: api/MackySoft.Modiferty.ModifiablePropertyDrawer.html#MackySoft_Modiferty_ModifiablePropertyDrawer_OnGUI_
+  commentId: Overload:MackySoft.Modiferty.ModifiablePropertyDrawer.OnGUI
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifiablePropertyDrawer.OnGUI
+  nameWithType: ModifiablePropertyDrawer.OnGUI
+- uid: MackySoft.Modiferty.ModifieableProperty`1
+  name: ModifieableProperty<T>
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html
+  commentId: T:MackySoft.Modiferty.ModifieableProperty`1
+  name.vb: ModifieableProperty(Of T)
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T)
+  nameWithType: ModifieableProperty<T>
+  nameWithType.vb: ModifieableProperty(Of T)
+- uid: MackySoft.Modiferty.ModifieableProperty`1.#ctor
+  name: ModifieableProperty()
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1__ctor
+  commentId: M:MackySoft.Modiferty.ModifieableProperty`1.#ctor
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.ModifieableProperty()
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).ModifieableProperty()
+  nameWithType: ModifieableProperty<T>.ModifieableProperty()
+  nameWithType.vb: ModifieableProperty(Of T).ModifieableProperty()
+- uid: MackySoft.Modiferty.ModifieableProperty`1.#ctor(`0)
+  name: ModifieableProperty(T)
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1__ctor__0_
+  commentId: M:MackySoft.Modiferty.ModifieableProperty`1.#ctor(`0)
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.ModifieableProperty(T)
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).ModifieableProperty(T)
+  nameWithType: ModifieableProperty<T>.ModifieableProperty(T)
+  nameWithType.vb: ModifieableProperty(Of T).ModifieableProperty(T)
+- uid: MackySoft.Modiferty.ModifieableProperty`1.#ctor*
+  name: ModifieableProperty
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1__ctor_
+  commentId: Overload:MackySoft.Modiferty.ModifieableProperty`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.ModifieableProperty
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).ModifieableProperty
+  nameWithType: ModifieableProperty<T>.ModifieableProperty
+  nameWithType.vb: ModifieableProperty(Of T).ModifieableProperty
+- uid: MackySoft.Modiferty.ModifieableProperty`1.BaseValue
+  name: BaseValue
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_BaseValue
+  commentId: P:MackySoft.Modiferty.ModifieableProperty`1.BaseValue
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.BaseValue
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).BaseValue
+  nameWithType: ModifieableProperty<T>.BaseValue
+  nameWithType.vb: ModifieableProperty(Of T).BaseValue
+- uid: MackySoft.Modiferty.ModifieableProperty`1.BaseValue*
+  name: BaseValue
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_BaseValue_
+  commentId: Overload:MackySoft.Modiferty.ModifieableProperty`1.BaseValue
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.BaseValue
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).BaseValue
+  nameWithType: ModifieableProperty<T>.BaseValue
+  nameWithType.vb: ModifieableProperty(Of T).BaseValue
+- uid: MackySoft.Modiferty.ModifieableProperty`1.Evaluate
+  name: Evaluate()
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_Evaluate
+  commentId: M:MackySoft.Modiferty.ModifieableProperty`1.Evaluate
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.Evaluate()
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).Evaluate()
+  nameWithType: ModifieableProperty<T>.Evaluate()
+  nameWithType.vb: ModifieableProperty(Of T).Evaluate()
+- uid: MackySoft.Modiferty.ModifieableProperty`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ModifieableProperty`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).Evaluate
+  nameWithType: ModifieableProperty<T>.Evaluate
+  nameWithType.vb: ModifieableProperty(Of T).Evaluate
+- uid: MackySoft.Modiferty.ModifieableProperty`1.HasModifiers
+  name: HasModifiers
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_HasModifiers
+  commentId: P:MackySoft.Modiferty.ModifieableProperty`1.HasModifiers
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.HasModifiers
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).HasModifiers
+  nameWithType: ModifieableProperty<T>.HasModifiers
+  nameWithType.vb: ModifieableProperty(Of T).HasModifiers
+- uid: MackySoft.Modiferty.ModifieableProperty`1.HasModifiers*
+  name: HasModifiers
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_HasModifiers_
+  commentId: Overload:MackySoft.Modiferty.ModifieableProperty`1.HasModifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.HasModifiers
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).HasModifiers
+  nameWithType: ModifieableProperty<T>.HasModifiers
+  nameWithType.vb: ModifieableProperty(Of T).HasModifiers
+- uid: MackySoft.Modiferty.ModifieableProperty`1.MackySoft#Modiferty#IReadOnlyModifiableProperty{T}#Modifiers
+  name: IReadOnlyModifiableProperty<T>.Modifiers
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_MackySoft_Modiferty_IReadOnlyModifiableProperty_T__Modifiers
+  commentId: P:MackySoft.Modiferty.ModifieableProperty`1.MackySoft#Modiferty#IReadOnlyModifiableProperty{T}#Modifiers
+  name.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType: ModifieableProperty<T>.IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType.vb: ModifieableProperty(Of T).MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+- uid: MackySoft.Modiferty.ModifieableProperty`1.MackySoft#Modiferty#IReadOnlyModifiableProperty{T}#Modifiers*
+  name: IReadOnlyModifiableProperty<T>.Modifiers
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_MackySoft_Modiferty_IReadOnlyModifiableProperty_T__Modifiers_
+  commentId: Overload:MackySoft.Modiferty.ModifieableProperty`1.MackySoft#Modiferty#IReadOnlyModifiableProperty{T}#Modifiers
+  isSpec: "True"
+  name.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType: ModifieableProperty<T>.IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType.vb: ModifieableProperty(Of T).MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+- uid: MackySoft.Modiferty.ModifieableProperty`1.Modifiers
+  name: Modifiers
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_Modifiers
+  commentId: P:MackySoft.Modiferty.ModifieableProperty`1.Modifiers
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).Modifiers
+  nameWithType: ModifieableProperty<T>.Modifiers
+  nameWithType.vb: ModifieableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.ModifieableProperty`1.Modifiers*
+  name: Modifiers
+  href: api/MackySoft.Modiferty.ModifieableProperty-1.html#MackySoft_Modiferty_ModifieableProperty_1_Modifiers_
+  commentId: Overload:MackySoft.Modiferty.ModifieableProperty`1.Modifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifieableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ModifieableProperty(Of T).Modifiers
+  nameWithType: ModifieableProperty<T>.Modifiers
+  nameWithType.vb: ModifieableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.ModifierList`1
+  name: ModifierList<T>
+  href: api/MackySoft.Modiferty.ModifierList-1.html
+  commentId: T:MackySoft.Modiferty.ModifierList`1
+  name.vb: ModifierList(Of T)
+  fullName: MackySoft.Modiferty.ModifierList<T>
+  fullName.vb: MackySoft.Modiferty.ModifierList(Of T)
+  nameWithType: ModifierList<T>
+  nameWithType.vb: ModifierList(Of T)
+- uid: MackySoft.Modiferty.ModifierList`1.Evaluate(`0)
+  name: Evaluate(T)
+  href: api/MackySoft.Modiferty.ModifierList-1.html#MackySoft_Modiferty_ModifierList_1_Evaluate__0_
+  commentId: M:MackySoft.Modiferty.ModifierList`1.Evaluate(`0)
+  fullName: MackySoft.Modiferty.ModifierList<T>.Evaluate(T)
+  fullName.vb: MackySoft.Modiferty.ModifierList(Of T).Evaluate(T)
+  nameWithType: ModifierList<T>.Evaluate(T)
+  nameWithType.vb: ModifierList(Of T).Evaluate(T)
+- uid: MackySoft.Modiferty.ModifierList`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ModifierList-1.html#MackySoft_Modiferty_ModifierList_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ModifierList`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifierList<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.ModifierList(Of T).Evaluate
+  nameWithType: ModifierList<T>.Evaluate
+  nameWithType.vb: ModifierList(Of T).Evaluate
+- uid: MackySoft.Modiferty.ModifierListExtensions
+  name: ModifierListExtensions
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html
+  commentId: T:MackySoft.Modiferty.ModifierListExtensions
+  fullName: MackySoft.Modiferty.ModifierListExtensions
+  nameWithType: ModifierListExtensions
+- uid: MackySoft.Modiferty.ModifierListExtensions.AddModifierAsDisposable*
+  name: AddModifierAsDisposable
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_AddModifierAsDisposable_
+  commentId: Overload:MackySoft.Modiferty.ModifierListExtensions.AddModifierAsDisposable
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifierListExtensions.AddModifierAsDisposable
+  nameWithType: ModifierListExtensions.AddModifierAsDisposable
+- uid: MackySoft.Modiferty.ModifierListExtensions.AddModifierAsDisposable``1(ICollection{MackySoft.Modiferty.IModifier{``0}},MackySoft.Modiferty.IModifier{``0})
+  name: AddModifierAsDisposable<T>(ICollection<IModifier<T>>, IModifier<T>)
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_AddModifierAsDisposable__1_ICollection_MackySoft_Modiferty_IModifier___0___MackySoft_Modiferty_IModifier___0__
+  commentId: M:MackySoft.Modiferty.ModifierListExtensions.AddModifierAsDisposable``1(ICollection{MackySoft.Modiferty.IModifier{``0}},MackySoft.Modiferty.IModifier{``0})
+  name.vb: AddModifierAsDisposable(Of T)(ICollection(Of IModifier(Of T)), IModifier(Of T))
+  fullName: MackySoft.Modiferty.ModifierListExtensions.AddModifierAsDisposable<T>(ICollection<MackySoft.Modiferty.IModifier<T>>, MackySoft.Modiferty.IModifier<T>)
+  fullName.vb: MackySoft.Modiferty.ModifierListExtensions.AddModifierAsDisposable(Of T)(ICollection(Of MackySoft.Modiferty.IModifier(Of T)), MackySoft.Modiferty.IModifier(Of T))
+  nameWithType: ModifierListExtensions.AddModifierAsDisposable<T>(ICollection<IModifier<T>>, IModifier<T>)
+  nameWithType.vb: ModifierListExtensions.AddModifierAsDisposable(Of T)(ICollection(Of IModifier(Of T)), IModifier(Of T))
+- uid: MackySoft.Modiferty.ModifierListExtensions.GetModifier*
+  name: GetModifier
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_GetModifier_
+  commentId: Overload:MackySoft.Modiferty.ModifierListExtensions.GetModifier
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifierListExtensions.GetModifier
+  nameWithType: ModifierListExtensions.GetModifier
+- uid: MackySoft.Modiferty.ModifierListExtensions.GetModifier``1(IEnumerable{MackySoft.Modiferty.IModifier})
+  name: GetModifier<TModifier>(IEnumerable<IModifier>)
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_GetModifier__1_IEnumerable_MackySoft_Modiferty_IModifier__
+  commentId: M:MackySoft.Modiferty.ModifierListExtensions.GetModifier``1(IEnumerable{MackySoft.Modiferty.IModifier})
+  name.vb: GetModifier(Of TModifier)(IEnumerable(Of IModifier))
+  fullName: MackySoft.Modiferty.ModifierListExtensions.GetModifier<TModifier>(IEnumerable<MackySoft.Modiferty.IModifier>)
+  fullName.vb: MackySoft.Modiferty.ModifierListExtensions.GetModifier(Of TModifier)(IEnumerable(Of MackySoft.Modiferty.IModifier))
+  nameWithType: ModifierListExtensions.GetModifier<TModifier>(IEnumerable<IModifier>)
+  nameWithType.vb: ModifierListExtensions.GetModifier(Of TModifier)(IEnumerable(Of IModifier))
+- uid: MackySoft.Modiferty.ModifierListExtensions.GetModifiers*
+  name: GetModifiers
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_GetModifiers_
+  commentId: Overload:MackySoft.Modiferty.ModifierListExtensions.GetModifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifierListExtensions.GetModifiers
+  nameWithType: ModifierListExtensions.GetModifiers
+- uid: MackySoft.Modiferty.ModifierListExtensions.GetModifiers``1(IEnumerable{MackySoft.Modiferty.IModifier})
+  name: GetModifiers<TModifier>(IEnumerable<IModifier>)
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_GetModifiers__1_IEnumerable_MackySoft_Modiferty_IModifier__
+  commentId: M:MackySoft.Modiferty.ModifierListExtensions.GetModifiers``1(IEnumerable{MackySoft.Modiferty.IModifier})
+  name.vb: GetModifiers(Of TModifier)(IEnumerable(Of IModifier))
+  fullName: MackySoft.Modiferty.ModifierListExtensions.GetModifiers<TModifier>(IEnumerable<MackySoft.Modiferty.IModifier>)
+  fullName.vb: MackySoft.Modiferty.ModifierListExtensions.GetModifiers(Of TModifier)(IEnumerable(Of MackySoft.Modiferty.IModifier))
+  nameWithType: ModifierListExtensions.GetModifiers<TModifier>(IEnumerable<IModifier>)
+  nameWithType.vb: ModifierListExtensions.GetModifiers(Of TModifier)(IEnumerable(Of IModifier))
+- uid: MackySoft.Modiferty.ModifierListExtensions.HasModifier*
+  name: HasModifier
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_HasModifier_
+  commentId: Overload:MackySoft.Modiferty.ModifierListExtensions.HasModifier
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifierListExtensions.HasModifier
+  nameWithType: ModifierListExtensions.HasModifier
+- uid: MackySoft.Modiferty.ModifierListExtensions.HasModifier``1(IEnumerable{MackySoft.Modiferty.IModifier})
+  name: HasModifier<TModifier>(IEnumerable<IModifier>)
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_HasModifier__1_IEnumerable_MackySoft_Modiferty_IModifier__
+  commentId: M:MackySoft.Modiferty.ModifierListExtensions.HasModifier``1(IEnumerable{MackySoft.Modiferty.IModifier})
+  name.vb: HasModifier(Of TModifier)(IEnumerable(Of IModifier))
+  fullName: MackySoft.Modiferty.ModifierListExtensions.HasModifier<TModifier>(IEnumerable<MackySoft.Modiferty.IModifier>)
+  fullName.vb: MackySoft.Modiferty.ModifierListExtensions.HasModifier(Of TModifier)(IEnumerable(Of MackySoft.Modiferty.IModifier))
+  nameWithType: ModifierListExtensions.HasModifier<TModifier>(IEnumerable<IModifier>)
+  nameWithType.vb: ModifierListExtensions.HasModifier(Of TModifier)(IEnumerable(Of IModifier))
+- uid: MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll*
+  name: RemoveModifiersAll
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_RemoveModifiersAll_
+  commentId: Overload:MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll
+  nameWithType: ModifierListExtensions.RemoveModifiersAll
+- uid: MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll``1(ICollection{MackySoft.Modiferty.IModifier{``0}},Predicate{MackySoft.Modiferty.IModifier{``0}})
+  name: RemoveModifiersAll<T>(ICollection<IModifier<T>>, Predicate<IModifier<T>>)
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_RemoveModifiersAll__1_ICollection_MackySoft_Modiferty_IModifier___0___Predicate_MackySoft_Modiferty_IModifier___0___
+  commentId: M:MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll``1(ICollection{MackySoft.Modiferty.IModifier{``0}},Predicate{MackySoft.Modiferty.IModifier{``0}})
+  name.vb: RemoveModifiersAll(Of T)(ICollection(Of IModifier(Of T)), Predicate(Of IModifier(Of T)))
+  fullName: MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll<T>(ICollection<MackySoft.Modiferty.IModifier<T>>, Predicate<MackySoft.Modiferty.IModifier<T>>)
+  fullName.vb: MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll(Of T)(ICollection(Of MackySoft.Modiferty.IModifier(Of T)), Predicate(Of MackySoft.Modiferty.IModifier(Of T)))
+  nameWithType: ModifierListExtensions.RemoveModifiersAll<T>(ICollection<IModifier<T>>, Predicate<IModifier<T>>)
+  nameWithType.vb: ModifierListExtensions.RemoveModifiersAll(Of T)(ICollection(Of IModifier(Of T)), Predicate(Of IModifier(Of T)))
+- uid: MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll``1(ICollection{MackySoft.Modiferty.IModifier})
+  name: RemoveModifiersAll<TModifier>(ICollection<IModifier>)
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_RemoveModifiersAll__1_ICollection_MackySoft_Modiferty_IModifier__
+  commentId: M:MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll``1(ICollection{MackySoft.Modiferty.IModifier})
+  name.vb: RemoveModifiersAll(Of TModifier)(ICollection(Of IModifier))
+  fullName: MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll<TModifier>(ICollection<MackySoft.Modiferty.IModifier>)
+  fullName.vb: MackySoft.Modiferty.ModifierListExtensions.RemoveModifiersAll(Of TModifier)(ICollection(Of MackySoft.Modiferty.IModifier))
+  nameWithType: ModifierListExtensions.RemoveModifiersAll<TModifier>(ICollection<IModifier>)
+  nameWithType.vb: ModifierListExtensions.RemoveModifiersAll(Of TModifier)(ICollection(Of IModifier))
+- uid: MackySoft.Modiferty.ModifierListExtensions.TryGetModifier*
+  name: TryGetModifier
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_TryGetModifier_
+  commentId: Overload:MackySoft.Modiferty.ModifierListExtensions.TryGetModifier
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ModifierListExtensions.TryGetModifier
+  nameWithType: ModifierListExtensions.TryGetModifier
+- uid: MackySoft.Modiferty.ModifierListExtensions.TryGetModifier``1(IEnumerable{MackySoft.Modiferty.IModifier},``0@)
+  name: TryGetModifier<TModifier>(IEnumerable<IModifier>, out TModifier)
+  href: api/MackySoft.Modiferty.ModifierListExtensions.html#MackySoft_Modiferty_ModifierListExtensions_TryGetModifier__1_IEnumerable_MackySoft_Modiferty_IModifier____0__
+  commentId: M:MackySoft.Modiferty.ModifierListExtensions.TryGetModifier``1(IEnumerable{MackySoft.Modiferty.IModifier},``0@)
+  name.vb: TryGetModifier(Of TModifier)(IEnumerable(Of IModifier), ByRef TModifier)
+  fullName: MackySoft.Modiferty.ModifierListExtensions.TryGetModifier<TModifier>(IEnumerable<MackySoft.Modiferty.IModifier>, out TModifier)
+  fullName.vb: MackySoft.Modiferty.ModifierListExtensions.TryGetModifier(Of TModifier)(IEnumerable(Of MackySoft.Modiferty.IModifier), ByRef TModifier)
+  nameWithType: ModifierListExtensions.TryGetModifier<TModifier>(IEnumerable<IModifier>, out TModifier)
+  nameWithType.vb: ModifierListExtensions.TryGetModifier(Of TModifier)(IEnumerable(Of IModifier), ByRef TModifier)
+- uid: MackySoft.Modiferty.MultiplyModifierFloat
+  name: MultiplyModifierFloat
+  href: api/MackySoft.Modiferty.MultiplyModifierFloat.html
+  commentId: T:MackySoft.Modiferty.MultiplyModifierFloat
+  fullName: MackySoft.Modiferty.MultiplyModifierFloat
+  nameWithType: MultiplyModifierFloat
+- uid: MackySoft.Modiferty.MultiplyModifierFloat.#ctor
+  name: MultiplyModifierFloat()
+  href: api/MackySoft.Modiferty.MultiplyModifierFloat.html#MackySoft_Modiferty_MultiplyModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.MultiplyModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.MultiplyModifierFloat.MultiplyModifierFloat()
+  nameWithType: MultiplyModifierFloat.MultiplyModifierFloat()
+- uid: MackySoft.Modiferty.MultiplyModifierFloat.#ctor(System.Single)
+  name: MultiplyModifierFloat(Single)
+  href: api/MackySoft.Modiferty.MultiplyModifierFloat.html#MackySoft_Modiferty_MultiplyModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.MultiplyModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.MultiplyModifierFloat.MultiplyModifierFloat(System.Single)
+  nameWithType: MultiplyModifierFloat.MultiplyModifierFloat(Single)
+- uid: MackySoft.Modiferty.MultiplyModifierFloat.#ctor*
+  name: MultiplyModifierFloat
+  href: api/MackySoft.Modiferty.MultiplyModifierFloat.html#MackySoft_Modiferty_MultiplyModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.MultiplyModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.MultiplyModifierFloat.MultiplyModifierFloat
+  nameWithType: MultiplyModifierFloat.MultiplyModifierFloat
+- uid: MackySoft.Modiferty.MultiplyModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.MultiplyModifierFloat.html#MackySoft_Modiferty_MultiplyModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.MultiplyModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.MultiplyModifierFloat.Evaluate(System.Single)
+  nameWithType: MultiplyModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.MultiplyModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.MultiplyModifierFloat.html#MackySoft_Modiferty_MultiplyModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.MultiplyModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.MultiplyModifierFloat.Evaluate
+  nameWithType: MultiplyModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.MultiplyModifierInt
+  name: MultiplyModifierInt
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html
+  commentId: T:MackySoft.Modiferty.MultiplyModifierInt
+  fullName: MackySoft.Modiferty.MultiplyModifierInt
+  nameWithType: MultiplyModifierInt
+- uid: MackySoft.Modiferty.MultiplyModifierInt.#ctor
+  name: MultiplyModifierInt()
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html#MackySoft_Modiferty_MultiplyModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.MultiplyModifierInt.#ctor
+  fullName: MackySoft.Modiferty.MultiplyModifierInt.MultiplyModifierInt()
+  nameWithType: MultiplyModifierInt.MultiplyModifierInt()
+- uid: MackySoft.Modiferty.MultiplyModifierInt.#ctor(System.Single)
+  name: MultiplyModifierInt(Single)
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html#MackySoft_Modiferty_MultiplyModifierInt__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.MultiplyModifierInt.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.MultiplyModifierInt.MultiplyModifierInt(System.Single)
+  nameWithType: MultiplyModifierInt.MultiplyModifierInt(Single)
+- uid: MackySoft.Modiferty.MultiplyModifierInt.#ctor(System.Single,MackySoft.Modiferty.RoundingMethod)
+  name: MultiplyModifierInt(Single, RoundingMethod)
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html#MackySoft_Modiferty_MultiplyModifierInt__ctor_System_Single_MackySoft_Modiferty_RoundingMethod_
+  commentId: M:MackySoft.Modiferty.MultiplyModifierInt.#ctor(System.Single,MackySoft.Modiferty.RoundingMethod)
+  fullName: MackySoft.Modiferty.MultiplyModifierInt.MultiplyModifierInt(System.Single, MackySoft.Modiferty.RoundingMethod)
+  nameWithType: MultiplyModifierInt.MultiplyModifierInt(Single, RoundingMethod)
+- uid: MackySoft.Modiferty.MultiplyModifierInt.#ctor*
+  name: MultiplyModifierInt
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html#MackySoft_Modiferty_MultiplyModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.MultiplyModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.MultiplyModifierInt.MultiplyModifierInt
+  nameWithType: MultiplyModifierInt.MultiplyModifierInt
+- uid: MackySoft.Modiferty.MultiplyModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html#MackySoft_Modiferty_MultiplyModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.MultiplyModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.MultiplyModifierInt.Evaluate(System.Int32)
+  nameWithType: MultiplyModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.MultiplyModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html#MackySoft_Modiferty_MultiplyModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.MultiplyModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.MultiplyModifierInt.Evaluate
+  nameWithType: MultiplyModifierInt.Evaluate
+- uid: MackySoft.Modiferty.MultiplyModifierInt.RoundingMethod
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html#MackySoft_Modiferty_MultiplyModifierInt_RoundingMethod
+  commentId: P:MackySoft.Modiferty.MultiplyModifierInt.RoundingMethod
+  fullName: MackySoft.Modiferty.MultiplyModifierInt.RoundingMethod
+  nameWithType: MultiplyModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.MultiplyModifierInt.RoundingMethod*
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.MultiplyModifierInt.html#MackySoft_Modiferty_MultiplyModifierInt_RoundingMethod_
+  commentId: Overload:MackySoft.Modiferty.MultiplyModifierInt.RoundingMethod
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.MultiplyModifierInt.RoundingMethod
+  nameWithType: MultiplyModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.OperatorModifierDrawer
+  name: OperatorModifierDrawer
+  href: api/MackySoft.Modiferty.OperatorModifierDrawer.html
+  commentId: T:MackySoft.Modiferty.OperatorModifierDrawer
+  fullName: MackySoft.Modiferty.OperatorModifierDrawer
+  nameWithType: OperatorModifierDrawer
+- uid: MackySoft.Modiferty.OperatorModifierDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  name: GetPropertyHeight(SerializedProperty, GUIContent)
+  href: api/MackySoft.Modiferty.OperatorModifierDrawer.html#MackySoft_Modiferty_OperatorModifierDrawer_GetPropertyHeight_SerializedProperty_GUIContent_
+  commentId: M:MackySoft.Modiferty.OperatorModifierDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  fullName: MackySoft.Modiferty.OperatorModifierDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+  nameWithType: OperatorModifierDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+- uid: MackySoft.Modiferty.OperatorModifierDrawer.GetPropertyHeight*
+  name: GetPropertyHeight
+  href: api/MackySoft.Modiferty.OperatorModifierDrawer.html#MackySoft_Modiferty_OperatorModifierDrawer_GetPropertyHeight_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierDrawer.GetPropertyHeight
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierDrawer.GetPropertyHeight
+  nameWithType: OperatorModifierDrawer.GetPropertyHeight
+- uid: MackySoft.Modiferty.OperatorModifierDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: api/MackySoft.Modiferty.OperatorModifierDrawer.html#MackySoft_Modiferty_OperatorModifierDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:MackySoft.Modiferty.OperatorModifierDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: MackySoft.Modiferty.OperatorModifierDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: OperatorModifierDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: MackySoft.Modiferty.OperatorModifierDrawer.OnGUI*
+  name: OnGUI
+  href: api/MackySoft.Modiferty.OperatorModifierDrawer.html#MackySoft_Modiferty_OperatorModifierDrawer_OnGUI_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierDrawer.OnGUI
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierDrawer.OnGUI
+  nameWithType: OperatorModifierDrawer.OnGUI
+- uid: MackySoft.Modiferty.OperatorModifierFloat
+  name: OperatorModifierFloat
+  href: api/MackySoft.Modiferty.OperatorModifierFloat.html
+  commentId: T:MackySoft.Modiferty.OperatorModifierFloat
+  fullName: MackySoft.Modiferty.OperatorModifierFloat
+  nameWithType: OperatorModifierFloat
+- uid: MackySoft.Modiferty.OperatorModifierFloat.#ctor
+  name: OperatorModifierFloat()
+  href: api/MackySoft.Modiferty.OperatorModifierFloat.html#MackySoft_Modiferty_OperatorModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.OperatorModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.OperatorModifierFloat.OperatorModifierFloat()
+  nameWithType: OperatorModifierFloat.OperatorModifierFloat()
+- uid: MackySoft.Modiferty.OperatorModifierFloat.#ctor(System.Single)
+  name: OperatorModifierFloat(Single)
+  href: api/MackySoft.Modiferty.OperatorModifierFloat.html#MackySoft_Modiferty_OperatorModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.OperatorModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.OperatorModifierFloat.OperatorModifierFloat(System.Single)
+  nameWithType: OperatorModifierFloat.OperatorModifierFloat(Single)
+- uid: MackySoft.Modiferty.OperatorModifierFloat.#ctor*
+  name: OperatorModifierFloat
+  href: api/MackySoft.Modiferty.OperatorModifierFloat.html#MackySoft_Modiferty_OperatorModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierFloat.OperatorModifierFloat
+  nameWithType: OperatorModifierFloat.OperatorModifierFloat
+- uid: MackySoft.Modiferty.OperatorModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.OperatorModifierFloat.html#MackySoft_Modiferty_OperatorModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.OperatorModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.OperatorModifierFloat.Evaluate(System.Single)
+  nameWithType: OperatorModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.OperatorModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.OperatorModifierFloat.html#MackySoft_Modiferty_OperatorModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierFloat.Evaluate
+  nameWithType: OperatorModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.OperatorModifierFloat.Type
+  name: Type
+  href: api/MackySoft.Modiferty.OperatorModifierFloat.html#MackySoft_Modiferty_OperatorModifierFloat_Type
+  commentId: P:MackySoft.Modiferty.OperatorModifierFloat.Type
+  fullName: MackySoft.Modiferty.OperatorModifierFloat.Type
+  nameWithType: OperatorModifierFloat.Type
+- uid: MackySoft.Modiferty.OperatorModifierFloat.Type*
+  name: Type
+  href: api/MackySoft.Modiferty.OperatorModifierFloat.html#MackySoft_Modiferty_OperatorModifierFloat_Type_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierFloat.Type
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierFloat.Type
+  nameWithType: OperatorModifierFloat.Type
+- uid: MackySoft.Modiferty.OperatorModifierInt
+  name: OperatorModifierInt
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html
+  commentId: T:MackySoft.Modiferty.OperatorModifierInt
+  fullName: MackySoft.Modiferty.OperatorModifierInt
+  nameWithType: OperatorModifierInt
+- uid: MackySoft.Modiferty.OperatorModifierInt.#ctor
+  name: OperatorModifierInt()
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.OperatorModifierInt.#ctor
+  fullName: MackySoft.Modiferty.OperatorModifierInt.OperatorModifierInt()
+  nameWithType: OperatorModifierInt.OperatorModifierInt()
+- uid: MackySoft.Modiferty.OperatorModifierInt.#ctor(System.Single)
+  name: OperatorModifierInt(Single)
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.OperatorModifierInt.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.OperatorModifierInt.OperatorModifierInt(System.Single)
+  nameWithType: OperatorModifierInt.OperatorModifierInt(Single)
+- uid: MackySoft.Modiferty.OperatorModifierInt.#ctor*
+  name: OperatorModifierInt
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierInt.OperatorModifierInt
+  nameWithType: OperatorModifierInt.OperatorModifierInt
+- uid: MackySoft.Modiferty.OperatorModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.OperatorModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.OperatorModifierInt.Evaluate(System.Int32)
+  nameWithType: OperatorModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.OperatorModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierInt.Evaluate
+  nameWithType: OperatorModifierInt.Evaluate
+- uid: MackySoft.Modiferty.OperatorModifierInt.RoundingMethod
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt_RoundingMethod
+  commentId: P:MackySoft.Modiferty.OperatorModifierInt.RoundingMethod
+  fullName: MackySoft.Modiferty.OperatorModifierInt.RoundingMethod
+  nameWithType: OperatorModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.OperatorModifierInt.RoundingMethod*
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt_RoundingMethod_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierInt.RoundingMethod
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierInt.RoundingMethod
+  nameWithType: OperatorModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.OperatorModifierInt.Type
+  name: Type
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt_Type
+  commentId: P:MackySoft.Modiferty.OperatorModifierInt.Type
+  fullName: MackySoft.Modiferty.OperatorModifierInt.Type
+  nameWithType: OperatorModifierInt.Type
+- uid: MackySoft.Modiferty.OperatorModifierInt.Type*
+  name: Type
+  href: api/MackySoft.Modiferty.OperatorModifierInt.html#MackySoft_Modiferty_OperatorModifierInt_Type_
+  commentId: Overload:MackySoft.Modiferty.OperatorModifierInt.Type
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.OperatorModifierInt.Type
+  nameWithType: OperatorModifierInt.Type
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierFloat
+  name: ReactiveAdditiveModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.html
+  commentId: T:MackySoft.Modiferty.ReactiveAdditiveModifierFloat
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierFloat
+  nameWithType: ReactiveAdditiveModifierFloat
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.#ctor
+  name: ReactiveAdditiveModifierFloat()
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.html#MackySoft_Modiferty_ReactiveAdditiveModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveAdditiveModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.ReactiveAdditiveModifierFloat()
+  nameWithType: ReactiveAdditiveModifierFloat.ReactiveAdditiveModifierFloat()
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.#ctor(System.Single)
+  name: ReactiveAdditiveModifierFloat(Single)
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.html#MackySoft_Modiferty_ReactiveAdditiveModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveAdditiveModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.ReactiveAdditiveModifierFloat(System.Single)
+  nameWithType: ReactiveAdditiveModifierFloat.ReactiveAdditiveModifierFloat(Single)
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.#ctor*
+  name: ReactiveAdditiveModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.html#MackySoft_Modiferty_ReactiveAdditiveModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveAdditiveModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.ReactiveAdditiveModifierFloat
+  nameWithType: ReactiveAdditiveModifierFloat.ReactiveAdditiveModifierFloat
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.html#MackySoft_Modiferty_ReactiveAdditiveModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveAdditiveModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.Evaluate(System.Single)
+  nameWithType: ReactiveAdditiveModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.html#MackySoft_Modiferty_ReactiveAdditiveModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveAdditiveModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierFloat.Evaluate
+  nameWithType: ReactiveAdditiveModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierInt
+  name: ReactiveAdditiveModifierInt
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.html
+  commentId: T:MackySoft.Modiferty.ReactiveAdditiveModifierInt
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierInt
+  nameWithType: ReactiveAdditiveModifierInt
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierInt.#ctor
+  name: ReactiveAdditiveModifierInt()
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.html#MackySoft_Modiferty_ReactiveAdditiveModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveAdditiveModifierInt.#ctor
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierInt.ReactiveAdditiveModifierInt()
+  nameWithType: ReactiveAdditiveModifierInt.ReactiveAdditiveModifierInt()
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierInt.#ctor(System.Int32)
+  name: ReactiveAdditiveModifierInt(Int32)
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.html#MackySoft_Modiferty_ReactiveAdditiveModifierInt__ctor_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveAdditiveModifierInt.#ctor(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierInt.ReactiveAdditiveModifierInt(System.Int32)
+  nameWithType: ReactiveAdditiveModifierInt.ReactiveAdditiveModifierInt(Int32)
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierInt.#ctor*
+  name: ReactiveAdditiveModifierInt
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.html#MackySoft_Modiferty_ReactiveAdditiveModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveAdditiveModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierInt.ReactiveAdditiveModifierInt
+  nameWithType: ReactiveAdditiveModifierInt.ReactiveAdditiveModifierInt
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.html#MackySoft_Modiferty_ReactiveAdditiveModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveAdditiveModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierInt.Evaluate(System.Int32)
+  nameWithType: ReactiveAdditiveModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.ReactiveAdditiveModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.html#MackySoft_Modiferty_ReactiveAdditiveModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveAdditiveModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveAdditiveModifierInt.Evaluate
+  nameWithType: ReactiveAdditiveModifierInt.Evaluate
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierFloat
+  name: ReactiveDivisionModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.html
+  commentId: T:MackySoft.Modiferty.ReactiveDivisionModifierFloat
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierFloat
+  nameWithType: ReactiveDivisionModifierFloat
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierFloat.#ctor
+  name: ReactiveDivisionModifierFloat()
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.html#MackySoft_Modiferty_ReactiveDivisionModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveDivisionModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierFloat.ReactiveDivisionModifierFloat()
+  nameWithType: ReactiveDivisionModifierFloat.ReactiveDivisionModifierFloat()
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierFloat.#ctor(System.Single)
+  name: ReactiveDivisionModifierFloat(Single)
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.html#MackySoft_Modiferty_ReactiveDivisionModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveDivisionModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierFloat.ReactiveDivisionModifierFloat(System.Single)
+  nameWithType: ReactiveDivisionModifierFloat.ReactiveDivisionModifierFloat(Single)
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierFloat.#ctor*
+  name: ReactiveDivisionModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.html#MackySoft_Modiferty_ReactiveDivisionModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveDivisionModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierFloat.ReactiveDivisionModifierFloat
+  nameWithType: ReactiveDivisionModifierFloat.ReactiveDivisionModifierFloat
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.html#MackySoft_Modiferty_ReactiveDivisionModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveDivisionModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierFloat.Evaluate(System.Single)
+  nameWithType: ReactiveDivisionModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.html#MackySoft_Modiferty_ReactiveDivisionModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveDivisionModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierFloat.Evaluate
+  nameWithType: ReactiveDivisionModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt
+  name: ReactiveDivisionModifierInt
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html
+  commentId: T:MackySoft.Modiferty.ReactiveDivisionModifierInt
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt
+  nameWithType: ReactiveDivisionModifierInt
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt.#ctor
+  name: ReactiveDivisionModifierInt()
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html#MackySoft_Modiferty_ReactiveDivisionModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveDivisionModifierInt.#ctor
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt.ReactiveDivisionModifierInt()
+  nameWithType: ReactiveDivisionModifierInt.ReactiveDivisionModifierInt()
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt.#ctor(System.Single)
+  name: ReactiveDivisionModifierInt(Single)
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html#MackySoft_Modiferty_ReactiveDivisionModifierInt__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveDivisionModifierInt.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt.ReactiveDivisionModifierInt(System.Single)
+  nameWithType: ReactiveDivisionModifierInt.ReactiveDivisionModifierInt(Single)
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt.#ctor(System.Single,MackySoft.Modiferty.RoundingMethod)
+  name: ReactiveDivisionModifierInt(Single, RoundingMethod)
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html#MackySoft_Modiferty_ReactiveDivisionModifierInt__ctor_System_Single_MackySoft_Modiferty_RoundingMethod_
+  commentId: M:MackySoft.Modiferty.ReactiveDivisionModifierInt.#ctor(System.Single,MackySoft.Modiferty.RoundingMethod)
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt.ReactiveDivisionModifierInt(System.Single, MackySoft.Modiferty.RoundingMethod)
+  nameWithType: ReactiveDivisionModifierInt.ReactiveDivisionModifierInt(Single, RoundingMethod)
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt.#ctor*
+  name: ReactiveDivisionModifierInt
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html#MackySoft_Modiferty_ReactiveDivisionModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveDivisionModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt.ReactiveDivisionModifierInt
+  nameWithType: ReactiveDivisionModifierInt.ReactiveDivisionModifierInt
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html#MackySoft_Modiferty_ReactiveDivisionModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveDivisionModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt.Evaluate(System.Int32)
+  nameWithType: ReactiveDivisionModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html#MackySoft_Modiferty_ReactiveDivisionModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveDivisionModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt.Evaluate
+  nameWithType: ReactiveDivisionModifierInt.Evaluate
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt.RoundingMethod
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html#MackySoft_Modiferty_ReactiveDivisionModifierInt_RoundingMethod
+  commentId: P:MackySoft.Modiferty.ReactiveDivisionModifierInt.RoundingMethod
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt.RoundingMethod
+  nameWithType: ReactiveDivisionModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.ReactiveDivisionModifierInt.RoundingMethod*
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html#MackySoft_Modiferty_ReactiveDivisionModifierInt_RoundingMethod_
+  commentId: Overload:MackySoft.Modiferty.ReactiveDivisionModifierInt.RoundingMethod
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveDivisionModifierInt.RoundingMethod
+  nameWithType: ReactiveDivisionModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.ReactiveModifiableFloat
+  name: ReactiveModifiableFloat
+  href: api/MackySoft.Modiferty.ReactiveModifiableFloat.html
+  commentId: T:MackySoft.Modiferty.ReactiveModifiableFloat
+  fullName: MackySoft.Modiferty.ReactiveModifiableFloat
+  nameWithType: ReactiveModifiableFloat
+- uid: MackySoft.Modiferty.ReactiveModifiableFloat.#ctor
+  name: ReactiveModifiableFloat()
+  href: api/MackySoft.Modiferty.ReactiveModifiableFloat.html#MackySoft_Modiferty_ReactiveModifiableFloat__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveModifiableFloat.#ctor
+  fullName: MackySoft.Modiferty.ReactiveModifiableFloat.ReactiveModifiableFloat()
+  nameWithType: ReactiveModifiableFloat.ReactiveModifiableFloat()
+- uid: MackySoft.Modiferty.ReactiveModifiableFloat.#ctor(System.Single)
+  name: ReactiveModifiableFloat(Single)
+  href: api/MackySoft.Modiferty.ReactiveModifiableFloat.html#MackySoft_Modiferty_ReactiveModifiableFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveModifiableFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveModifiableFloat.ReactiveModifiableFloat(System.Single)
+  nameWithType: ReactiveModifiableFloat.ReactiveModifiableFloat(Single)
+- uid: MackySoft.Modiferty.ReactiveModifiableFloat.#ctor*
+  name: ReactiveModifiableFloat
+  href: api/MackySoft.Modiferty.ReactiveModifiableFloat.html#MackySoft_Modiferty_ReactiveModifiableFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifiableFloat.ReactiveModifiableFloat
+  nameWithType: ReactiveModifiableFloat.ReactiveModifiableFloat
+- uid: MackySoft.Modiferty.ReactiveModifiableInt
+  name: ReactiveModifiableInt
+  href: api/MackySoft.Modiferty.ReactiveModifiableInt.html
+  commentId: T:MackySoft.Modiferty.ReactiveModifiableInt
+  fullName: MackySoft.Modiferty.ReactiveModifiableInt
+  nameWithType: ReactiveModifiableInt
+- uid: MackySoft.Modiferty.ReactiveModifiableInt.#ctor
+  name: ReactiveModifiableInt()
+  href: api/MackySoft.Modiferty.ReactiveModifiableInt.html#MackySoft_Modiferty_ReactiveModifiableInt__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveModifiableInt.#ctor
+  fullName: MackySoft.Modiferty.ReactiveModifiableInt.ReactiveModifiableInt()
+  nameWithType: ReactiveModifiableInt.ReactiveModifiableInt()
+- uid: MackySoft.Modiferty.ReactiveModifiableInt.#ctor(System.Int32)
+  name: ReactiveModifiableInt(Int32)
+  href: api/MackySoft.Modiferty.ReactiveModifiableInt.html#MackySoft_Modiferty_ReactiveModifiableInt__ctor_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveModifiableInt.#ctor(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveModifiableInt.ReactiveModifiableInt(System.Int32)
+  nameWithType: ReactiveModifiableInt.ReactiveModifiableInt(Int32)
+- uid: MackySoft.Modiferty.ReactiveModifiableInt.#ctor*
+  name: ReactiveModifiableInt
+  href: api/MackySoft.Modiferty.ReactiveModifiableInt.html#MackySoft_Modiferty_ReactiveModifiableInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifiableInt.ReactiveModifiableInt
+  nameWithType: ReactiveModifiableInt.ReactiveModifiableInt
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1
+  name: ReactiveModifiableProperty<T>
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html
+  commentId: T:MackySoft.Modiferty.ReactiveModifiableProperty`1
+  name.vb: ReactiveModifiableProperty(Of T)
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T)
+  nameWithType: ReactiveModifiableProperty<T>
+  nameWithType.vb: ReactiveModifiableProperty(Of T)
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.#ctor
+  name: ReactiveModifiableProperty()
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveModifiableProperty`1.#ctor
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.ReactiveModifiableProperty()
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).ReactiveModifiableProperty()
+  nameWithType: ReactiveModifiableProperty<T>.ReactiveModifiableProperty()
+  nameWithType.vb: ReactiveModifiableProperty(Of T).ReactiveModifiableProperty()
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.#ctor(`0)
+  name: ReactiveModifiableProperty(T)
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1__ctor__0_
+  commentId: M:MackySoft.Modiferty.ReactiveModifiableProperty`1.#ctor(`0)
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.ReactiveModifiableProperty(T)
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).ReactiveModifiableProperty(T)
+  nameWithType: ReactiveModifiableProperty<T>.ReactiveModifiableProperty(T)
+  nameWithType.vb: ReactiveModifiableProperty(Of T).ReactiveModifiableProperty(T)
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.#ctor*
+  name: ReactiveModifiableProperty
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableProperty`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.ReactiveModifiableProperty
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).ReactiveModifiableProperty
+  nameWithType: ReactiveModifiableProperty<T>.ReactiveModifiableProperty
+  nameWithType.vb: ReactiveModifiableProperty(Of T).ReactiveModifiableProperty
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.BaseValue
+  name: BaseValue
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_BaseValue
+  commentId: P:MackySoft.Modiferty.ReactiveModifiableProperty`1.BaseValue
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.BaseValue
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).BaseValue
+  nameWithType: ReactiveModifiableProperty<T>.BaseValue
+  nameWithType.vb: ReactiveModifiableProperty(Of T).BaseValue
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.BaseValue*
+  name: BaseValue
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_BaseValue_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableProperty`1.BaseValue
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.BaseValue
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).BaseValue
+  nameWithType: ReactiveModifiableProperty<T>.BaseValue
+  nameWithType.vb: ReactiveModifiableProperty(Of T).BaseValue
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.Evaluate
+  name: Evaluate()
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_Evaluate
+  commentId: M:MackySoft.Modiferty.ReactiveModifiableProperty`1.Evaluate
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.Evaluate()
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).Evaluate()
+  nameWithType: ReactiveModifiableProperty<T>.Evaluate()
+  nameWithType.vb: ReactiveModifiableProperty(Of T).Evaluate()
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableProperty`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).Evaluate
+  nameWithType: ReactiveModifiableProperty<T>.Evaluate
+  nameWithType.vb: ReactiveModifiableProperty(Of T).Evaluate
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.HasModifiers
+  name: HasModifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_HasModifiers
+  commentId: P:MackySoft.Modiferty.ReactiveModifiableProperty`1.HasModifiers
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.HasModifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).HasModifiers
+  nameWithType: ReactiveModifiableProperty<T>.HasModifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).HasModifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.HasModifiers*
+  name: HasModifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_HasModifiers_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableProperty`1.HasModifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.HasModifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).HasModifiers
+  nameWithType: ReactiveModifiableProperty<T>.HasModifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).HasModifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IModifiableProperty{T}#Modifiers
+  name: IModifiableProperty<T>.Modifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_MackySoft_Modiferty_IModifiableProperty_T__Modifiers
+  commentId: P:MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IModifiableProperty{T}#Modifiers
+  name.vb: MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+  nameWithType: ReactiveModifiableProperty<T>.IModifiableProperty<T>.Modifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IModifiableProperty{T}#Modifiers*
+  name: IModifiableProperty<T>.Modifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_MackySoft_Modiferty_IModifiableProperty_T__Modifiers_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IModifiableProperty{T}#Modifiers
+  isSpec: "True"
+  name.vb: MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+  nameWithType: ReactiveModifiableProperty<T>.IModifiableProperty<T>.Modifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IModifiableProperty<T>.Modifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IReadOnlyModifiableProperty{T}#Modifiers
+  name: IReadOnlyModifiableProperty<T>.Modifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_MackySoft_Modiferty_IReadOnlyModifiableProperty_T__Modifiers
+  commentId: P:MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IReadOnlyModifiableProperty{T}#Modifiers
+  name.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType: ReactiveModifiableProperty<T>.IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IReadOnlyModifiableProperty{T}#Modifiers*
+  name: IReadOnlyModifiableProperty<T>.Modifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_MackySoft_Modiferty_IReadOnlyModifiableProperty_T__Modifiers_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IReadOnlyModifiableProperty{T}#Modifiers
+  isSpec: "True"
+  name.vb: MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType: ReactiveModifiableProperty<T>.IReadOnlyModifiableProperty<T>.Modifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IReadOnlyModifiableProperty<T>.Modifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IReadOnlyReactiveModifiableProperty{T}#Modifiers
+  name: IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_MackySoft_Modiferty_IReadOnlyReactiveModifiableProperty_T__Modifiers
+  commentId: P:MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IReadOnlyReactiveModifiableProperty{T}#Modifiers
+  name.vb: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  nameWithType: ReactiveModifiableProperty<T>.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IReadOnlyReactiveModifiableProperty{T}#Modifiers*
+  name: IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_MackySoft_Modiferty_IReadOnlyReactiveModifiableProperty_T__Modifiers_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableProperty`1.MackySoft#Modiferty#IReadOnlyReactiveModifiableProperty{T}#Modifiers
+  isSpec: "True"
+  name.vb: MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  nameWithType: ReactiveModifiableProperty<T>.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>.Modifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.Modifiers
+  name: Modifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_Modifiers
+  commentId: P:MackySoft.Modiferty.ReactiveModifiableProperty`1.Modifiers
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).Modifiers
+  nameWithType: ReactiveModifiableProperty<T>.Modifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.ReactiveModifiableProperty`1.Modifiers*
+  name: Modifiers
+  href: api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html#MackySoft_Modiferty_ReactiveModifiableProperty_1_Modifiers_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiableProperty`1.Modifiers
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifiableProperty<T>.Modifiers
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiableProperty(Of T).Modifiers
+  nameWithType: ReactiveModifiableProperty<T>.Modifiers
+  nameWithType.vb: ReactiveModifiableProperty(Of T).Modifiers
+- uid: MackySoft.Modiferty.ReactiveModifiablePropertyExtensions
+  name: ReactiveModifiablePropertyExtensions
+  href: api/MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.html
+  commentId: T:MackySoft.Modiferty.ReactiveModifiablePropertyExtensions
+  fullName: MackySoft.Modiferty.ReactiveModifiablePropertyExtensions
+  nameWithType: ReactiveModifiablePropertyExtensions
+- uid: MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.ObserveChanged*
+  name: ObserveChanged
+  href: api/MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.html#MackySoft_Modiferty_ReactiveModifiablePropertyExtensions_ObserveChanged_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.ObserveChanged
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.ObserveChanged
+  nameWithType: ReactiveModifiablePropertyExtensions.ObserveChanged
+- uid: MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.ObserveChanged``1(MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty{``0})
+  name: ObserveChanged<T>(IReadOnlyReactiveModifiableProperty<T>)
+  href: api/MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.html#MackySoft_Modiferty_ReactiveModifiablePropertyExtensions_ObserveChanged__1_MackySoft_Modiferty_IReadOnlyReactiveModifiableProperty___0__
+  commentId: M:MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.ObserveChanged``1(MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty{``0})
+  name.vb: ObserveChanged(Of T)(IReadOnlyReactiveModifiableProperty(Of T))
+  fullName: MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.ObserveChanged<T>(MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty<T>)
+  fullName.vb: MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.ObserveChanged(Of T)(MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty(Of T))
+  nameWithType: ReactiveModifiablePropertyExtensions.ObserveChanged<T>(IReadOnlyReactiveModifiableProperty<T>)
+  nameWithType.vb: ReactiveModifiablePropertyExtensions.ObserveChanged(Of T)(IReadOnlyReactiveModifiableProperty(Of T))
+- uid: MackySoft.Modiferty.ReactiveModifierList`1
+  name: ReactiveModifierList<T>
+  href: api/MackySoft.Modiferty.ReactiveModifierList-1.html
+  commentId: T:MackySoft.Modiferty.ReactiveModifierList`1
+  name.vb: ReactiveModifierList(Of T)
+  fullName: MackySoft.Modiferty.ReactiveModifierList<T>
+  fullName.vb: MackySoft.Modiferty.ReactiveModifierList(Of T)
+  nameWithType: ReactiveModifierList<T>
+  nameWithType.vb: ReactiveModifierList(Of T)
+- uid: MackySoft.Modiferty.ReactiveModifierList`1.#ctor
+  name: ReactiveModifierList()
+  href: api/MackySoft.Modiferty.ReactiveModifierList-1.html#MackySoft_Modiferty_ReactiveModifierList_1__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveModifierList`1.#ctor
+  fullName: MackySoft.Modiferty.ReactiveModifierList<T>.ReactiveModifierList()
+  fullName.vb: MackySoft.Modiferty.ReactiveModifierList(Of T).ReactiveModifierList()
+  nameWithType: ReactiveModifierList<T>.ReactiveModifierList()
+  nameWithType.vb: ReactiveModifierList(Of T).ReactiveModifierList()
+- uid: MackySoft.Modiferty.ReactiveModifierList`1.#ctor(IEnumerable{MackySoft.Modiferty.IModifier{`0}})
+  name: ReactiveModifierList(IEnumerable<IModifier<T>>)
+  href: api/MackySoft.Modiferty.ReactiveModifierList-1.html#MackySoft_Modiferty_ReactiveModifierList_1__ctor_IEnumerable_MackySoft_Modiferty_IModifier__0___
+  commentId: M:MackySoft.Modiferty.ReactiveModifierList`1.#ctor(IEnumerable{MackySoft.Modiferty.IModifier{`0}})
+  name.vb: ReactiveModifierList(IEnumerable(Of IModifier(Of T)))
+  fullName: MackySoft.Modiferty.ReactiveModifierList<T>.ReactiveModifierList(IEnumerable<MackySoft.Modiferty.IModifier<T>>)
+  fullName.vb: MackySoft.Modiferty.ReactiveModifierList(Of T).ReactiveModifierList(IEnumerable(Of MackySoft.Modiferty.IModifier(Of T)))
+  nameWithType: ReactiveModifierList<T>.ReactiveModifierList(IEnumerable<IModifier<T>>)
+  nameWithType.vb: ReactiveModifierList(Of T).ReactiveModifierList(IEnumerable(Of IModifier(Of T)))
+- uid: MackySoft.Modiferty.ReactiveModifierList`1.#ctor(List{MackySoft.Modiferty.IModifier{`0}})
+  name: ReactiveModifierList(List<IModifier<T>>)
+  href: api/MackySoft.Modiferty.ReactiveModifierList-1.html#MackySoft_Modiferty_ReactiveModifierList_1__ctor_List_MackySoft_Modiferty_IModifier__0___
+  commentId: M:MackySoft.Modiferty.ReactiveModifierList`1.#ctor(List{MackySoft.Modiferty.IModifier{`0}})
+  name.vb: ReactiveModifierList(List(Of IModifier(Of T)))
+  fullName: MackySoft.Modiferty.ReactiveModifierList<T>.ReactiveModifierList(List<MackySoft.Modiferty.IModifier<T>>)
+  fullName.vb: MackySoft.Modiferty.ReactiveModifierList(Of T).ReactiveModifierList(List(Of MackySoft.Modiferty.IModifier(Of T)))
+  nameWithType: ReactiveModifierList<T>.ReactiveModifierList(List<IModifier<T>>)
+  nameWithType.vb: ReactiveModifierList(Of T).ReactiveModifierList(List(Of IModifier(Of T)))
+- uid: MackySoft.Modiferty.ReactiveModifierList`1.#ctor*
+  name: ReactiveModifierList
+  href: api/MackySoft.Modiferty.ReactiveModifierList-1.html#MackySoft_Modiferty_ReactiveModifierList_1__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifierList`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifierList<T>.ReactiveModifierList
+  fullName.vb: MackySoft.Modiferty.ReactiveModifierList(Of T).ReactiveModifierList
+  nameWithType: ReactiveModifierList<T>.ReactiveModifierList
+  nameWithType.vb: ReactiveModifierList(Of T).ReactiveModifierList
+- uid: MackySoft.Modiferty.ReactiveModifierList`1.Evaluate(`0)
+  name: Evaluate(T)
+  href: api/MackySoft.Modiferty.ReactiveModifierList-1.html#MackySoft_Modiferty_ReactiveModifierList_1_Evaluate__0_
+  commentId: M:MackySoft.Modiferty.ReactiveModifierList`1.Evaluate(`0)
+  fullName: MackySoft.Modiferty.ReactiveModifierList<T>.Evaluate(T)
+  fullName.vb: MackySoft.Modiferty.ReactiveModifierList(Of T).Evaluate(T)
+  nameWithType: ReactiveModifierList<T>.Evaluate(T)
+  nameWithType.vb: ReactiveModifierList(Of T).Evaluate(T)
+- uid: MackySoft.Modiferty.ReactiveModifierList`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveModifierList-1.html#MackySoft_Modiferty_ReactiveModifierList_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifierList`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifierList<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.ReactiveModifierList(Of T).Evaluate
+  nameWithType: ReactiveModifierList<T>.Evaluate
+  nameWithType.vb: ReactiveModifierList(Of T).Evaluate
+- uid: MackySoft.Modiferty.ReactiveModifierListExtensions
+  name: ReactiveModifierListExtensions
+  href: api/MackySoft.Modiferty.ReactiveModifierListExtensions.html
+  commentId: T:MackySoft.Modiferty.ReactiveModifierListExtensions
+  fullName: MackySoft.Modiferty.ReactiveModifierListExtensions
+  nameWithType: ReactiveModifierListExtensions
+- uid: MackySoft.Modiferty.ReactiveModifierListExtensions.ObserveChanged*
+  name: ObserveChanged
+  href: api/MackySoft.Modiferty.ReactiveModifierListExtensions.html#MackySoft_Modiferty_ReactiveModifierListExtensions_ObserveChanged_
+  commentId: Overload:MackySoft.Modiferty.ReactiveModifierListExtensions.ObserveChanged
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveModifierListExtensions.ObserveChanged
+  nameWithType: ReactiveModifierListExtensions.ObserveChanged
+- uid: MackySoft.Modiferty.ReactiveModifierListExtensions.ObserveChanged``1(MackySoft.Modiferty.IReadOnlyReactiveModifierList{``0})
+  name: ObserveChanged<T>(IReadOnlyReactiveModifierList<T>)
+  href: api/MackySoft.Modiferty.ReactiveModifierListExtensions.html#MackySoft_Modiferty_ReactiveModifierListExtensions_ObserveChanged__1_MackySoft_Modiferty_IReadOnlyReactiveModifierList___0__
+  commentId: M:MackySoft.Modiferty.ReactiveModifierListExtensions.ObserveChanged``1(MackySoft.Modiferty.IReadOnlyReactiveModifierList{``0})
+  name.vb: ObserveChanged(Of T)(IReadOnlyReactiveModifierList(Of T))
+  fullName: MackySoft.Modiferty.ReactiveModifierListExtensions.ObserveChanged<T>(MackySoft.Modiferty.IReadOnlyReactiveModifierList<T>)
+  fullName.vb: MackySoft.Modiferty.ReactiveModifierListExtensions.ObserveChanged(Of T)(MackySoft.Modiferty.IReadOnlyReactiveModifierList(Of T))
+  nameWithType: ReactiveModifierListExtensions.ObserveChanged<T>(IReadOnlyReactiveModifierList<T>)
+  nameWithType.vb: ReactiveModifierListExtensions.ObserveChanged(Of T)(IReadOnlyReactiveModifierList(Of T))
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierFloat
+  name: ReactiveMultiplyModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.html
+  commentId: T:MackySoft.Modiferty.ReactiveMultiplyModifierFloat
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierFloat
+  nameWithType: ReactiveMultiplyModifierFloat
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.#ctor
+  name: ReactiveMultiplyModifierFloat()
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.html#MackySoft_Modiferty_ReactiveMultiplyModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveMultiplyModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.ReactiveMultiplyModifierFloat()
+  nameWithType: ReactiveMultiplyModifierFloat.ReactiveMultiplyModifierFloat()
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.#ctor(System.Single)
+  name: ReactiveMultiplyModifierFloat(Single)
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.html#MackySoft_Modiferty_ReactiveMultiplyModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveMultiplyModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.ReactiveMultiplyModifierFloat(System.Single)
+  nameWithType: ReactiveMultiplyModifierFloat.ReactiveMultiplyModifierFloat(Single)
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.#ctor*
+  name: ReactiveMultiplyModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.html#MackySoft_Modiferty_ReactiveMultiplyModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveMultiplyModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.ReactiveMultiplyModifierFloat
+  nameWithType: ReactiveMultiplyModifierFloat.ReactiveMultiplyModifierFloat
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.html#MackySoft_Modiferty_ReactiveMultiplyModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveMultiplyModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.Evaluate(System.Single)
+  nameWithType: ReactiveMultiplyModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.html#MackySoft_Modiferty_ReactiveMultiplyModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveMultiplyModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierFloat.Evaluate
+  nameWithType: ReactiveMultiplyModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt
+  name: ReactiveMultiplyModifierInt
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html
+  commentId: T:MackySoft.Modiferty.ReactiveMultiplyModifierInt
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt
+  nameWithType: ReactiveMultiplyModifierInt
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt.#ctor
+  name: ReactiveMultiplyModifierInt()
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html#MackySoft_Modiferty_ReactiveMultiplyModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveMultiplyModifierInt.#ctor
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt.ReactiveMultiplyModifierInt()
+  nameWithType: ReactiveMultiplyModifierInt.ReactiveMultiplyModifierInt()
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt.#ctor(System.Single)
+  name: ReactiveMultiplyModifierInt(Single)
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html#MackySoft_Modiferty_ReactiveMultiplyModifierInt__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveMultiplyModifierInt.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt.ReactiveMultiplyModifierInt(System.Single)
+  nameWithType: ReactiveMultiplyModifierInt.ReactiveMultiplyModifierInt(Single)
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt.#ctor(System.Single,MackySoft.Modiferty.RoundingMethod)
+  name: ReactiveMultiplyModifierInt(Single, RoundingMethod)
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html#MackySoft_Modiferty_ReactiveMultiplyModifierInt__ctor_System_Single_MackySoft_Modiferty_RoundingMethod_
+  commentId: M:MackySoft.Modiferty.ReactiveMultiplyModifierInt.#ctor(System.Single,MackySoft.Modiferty.RoundingMethod)
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt.ReactiveMultiplyModifierInt(System.Single, MackySoft.Modiferty.RoundingMethod)
+  nameWithType: ReactiveMultiplyModifierInt.ReactiveMultiplyModifierInt(Single, RoundingMethod)
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt.#ctor*
+  name: ReactiveMultiplyModifierInt
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html#MackySoft_Modiferty_ReactiveMultiplyModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveMultiplyModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt.ReactiveMultiplyModifierInt
+  nameWithType: ReactiveMultiplyModifierInt.ReactiveMultiplyModifierInt
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html#MackySoft_Modiferty_ReactiveMultiplyModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveMultiplyModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt.Evaluate(System.Int32)
+  nameWithType: ReactiveMultiplyModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html#MackySoft_Modiferty_ReactiveMultiplyModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveMultiplyModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt.Evaluate
+  nameWithType: ReactiveMultiplyModifierInt.Evaluate
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt.RoundingMethod
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html#MackySoft_Modiferty_ReactiveMultiplyModifierInt_RoundingMethod
+  commentId: P:MackySoft.Modiferty.ReactiveMultiplyModifierInt.RoundingMethod
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt.RoundingMethod
+  nameWithType: ReactiveMultiplyModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.ReactiveMultiplyModifierInt.RoundingMethod*
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html#MackySoft_Modiferty_ReactiveMultiplyModifierInt_RoundingMethod_
+  commentId: Overload:MackySoft.Modiferty.ReactiveMultiplyModifierInt.RoundingMethod
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveMultiplyModifierInt.RoundingMethod
+  nameWithType: ReactiveMultiplyModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierFloat
+  name: ReactiveOperatorModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html
+  commentId: T:MackySoft.Modiferty.ReactiveOperatorModifierFloat
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierFloat
+  nameWithType: ReactiveOperatorModifierFloat
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierFloat.#ctor
+  name: ReactiveOperatorModifierFloat()
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html#MackySoft_Modiferty_ReactiveOperatorModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveOperatorModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierFloat.ReactiveOperatorModifierFloat()
+  nameWithType: ReactiveOperatorModifierFloat.ReactiveOperatorModifierFloat()
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierFloat.#ctor(System.Single)
+  name: ReactiveOperatorModifierFloat(Single)
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html#MackySoft_Modiferty_ReactiveOperatorModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveOperatorModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierFloat.ReactiveOperatorModifierFloat(System.Single)
+  nameWithType: ReactiveOperatorModifierFloat.ReactiveOperatorModifierFloat(Single)
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierFloat.#ctor*
+  name: ReactiveOperatorModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html#MackySoft_Modiferty_ReactiveOperatorModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveOperatorModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierFloat.ReactiveOperatorModifierFloat
+  nameWithType: ReactiveOperatorModifierFloat.ReactiveOperatorModifierFloat
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html#MackySoft_Modiferty_ReactiveOperatorModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveOperatorModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierFloat.Evaluate(System.Single)
+  nameWithType: ReactiveOperatorModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html#MackySoft_Modiferty_ReactiveOperatorModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveOperatorModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierFloat.Evaluate
+  nameWithType: ReactiveOperatorModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierFloat.Type
+  name: Type
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html#MackySoft_Modiferty_ReactiveOperatorModifierFloat_Type
+  commentId: P:MackySoft.Modiferty.ReactiveOperatorModifierFloat.Type
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierFloat.Type
+  nameWithType: ReactiveOperatorModifierFloat.Type
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierFloat.Type*
+  name: Type
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html#MackySoft_Modiferty_ReactiveOperatorModifierFloat_Type_
+  commentId: Overload:MackySoft.Modiferty.ReactiveOperatorModifierFloat.Type
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierFloat.Type
+  nameWithType: ReactiveOperatorModifierFloat.Type
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt
+  name: ReactiveOperatorModifierInt
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html
+  commentId: T:MackySoft.Modiferty.ReactiveOperatorModifierInt
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt
+  nameWithType: ReactiveOperatorModifierInt
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.#ctor
+  name: ReactiveOperatorModifierInt()
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveOperatorModifierInt.#ctor
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.ReactiveOperatorModifierInt()
+  nameWithType: ReactiveOperatorModifierInt.ReactiveOperatorModifierInt()
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.#ctor(System.Single)
+  name: ReactiveOperatorModifierInt(Single)
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveOperatorModifierInt.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.ReactiveOperatorModifierInt(System.Single)
+  nameWithType: ReactiveOperatorModifierInt.ReactiveOperatorModifierInt(Single)
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.#ctor*
+  name: ReactiveOperatorModifierInt
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveOperatorModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.ReactiveOperatorModifierInt
+  nameWithType: ReactiveOperatorModifierInt.ReactiveOperatorModifierInt
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveOperatorModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.Evaluate(System.Int32)
+  nameWithType: ReactiveOperatorModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveOperatorModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.Evaluate
+  nameWithType: ReactiveOperatorModifierInt.Evaluate
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.RoundingMethod
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt_RoundingMethod
+  commentId: P:MackySoft.Modiferty.ReactiveOperatorModifierInt.RoundingMethod
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.RoundingMethod
+  nameWithType: ReactiveOperatorModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.RoundingMethod*
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt_RoundingMethod_
+  commentId: Overload:MackySoft.Modiferty.ReactiveOperatorModifierInt.RoundingMethod
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.RoundingMethod
+  nameWithType: ReactiveOperatorModifierInt.RoundingMethod
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.Type
+  name: Type
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt_Type
+  commentId: P:MackySoft.Modiferty.ReactiveOperatorModifierInt.Type
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.Type
+  nameWithType: ReactiveOperatorModifierInt.Type
+- uid: MackySoft.Modiferty.ReactiveOperatorModifierInt.Type*
+  name: Type
+  href: api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html#MackySoft_Modiferty_ReactiveOperatorModifierInt_Type_
+  commentId: Overload:MackySoft.Modiferty.ReactiveOperatorModifierInt.Type
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveOperatorModifierInt.Type
+  nameWithType: ReactiveOperatorModifierInt.Type
+- uid: MackySoft.Modiferty.ReactiveSetModifier`1
+  name: ReactiveSetModifier<T>
+  href: api/MackySoft.Modiferty.ReactiveSetModifier-1.html
+  commentId: T:MackySoft.Modiferty.ReactiveSetModifier`1
+  name.vb: ReactiveSetModifier(Of T)
+  fullName: MackySoft.Modiferty.ReactiveSetModifier<T>
+  fullName.vb: MackySoft.Modiferty.ReactiveSetModifier(Of T)
+  nameWithType: ReactiveSetModifier<T>
+  nameWithType.vb: ReactiveSetModifier(Of T)
+- uid: MackySoft.Modiferty.ReactiveSetModifier`1.#ctor
+  name: ReactiveSetModifier()
+  href: api/MackySoft.Modiferty.ReactiveSetModifier-1.html#MackySoft_Modiferty_ReactiveSetModifier_1__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveSetModifier`1.#ctor
+  fullName: MackySoft.Modiferty.ReactiveSetModifier<T>.ReactiveSetModifier()
+  fullName.vb: MackySoft.Modiferty.ReactiveSetModifier(Of T).ReactiveSetModifier()
+  nameWithType: ReactiveSetModifier<T>.ReactiveSetModifier()
+  nameWithType.vb: ReactiveSetModifier(Of T).ReactiveSetModifier()
+- uid: MackySoft.Modiferty.ReactiveSetModifier`1.#ctor(`0)
+  name: ReactiveSetModifier(T)
+  href: api/MackySoft.Modiferty.ReactiveSetModifier-1.html#MackySoft_Modiferty_ReactiveSetModifier_1__ctor__0_
+  commentId: M:MackySoft.Modiferty.ReactiveSetModifier`1.#ctor(`0)
+  fullName: MackySoft.Modiferty.ReactiveSetModifier<T>.ReactiveSetModifier(T)
+  fullName.vb: MackySoft.Modiferty.ReactiveSetModifier(Of T).ReactiveSetModifier(T)
+  nameWithType: ReactiveSetModifier<T>.ReactiveSetModifier(T)
+  nameWithType.vb: ReactiveSetModifier(Of T).ReactiveSetModifier(T)
+- uid: MackySoft.Modiferty.ReactiveSetModifier`1.#ctor*
+  name: ReactiveSetModifier
+  href: api/MackySoft.Modiferty.ReactiveSetModifier-1.html#MackySoft_Modiferty_ReactiveSetModifier_1__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSetModifier`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSetModifier<T>.ReactiveSetModifier
+  fullName.vb: MackySoft.Modiferty.ReactiveSetModifier(Of T).ReactiveSetModifier
+  nameWithType: ReactiveSetModifier<T>.ReactiveSetModifier
+  nameWithType.vb: ReactiveSetModifier(Of T).ReactiveSetModifier
+- uid: MackySoft.Modiferty.ReactiveSetModifier`1.Evaluate(`0)
+  name: Evaluate(T)
+  href: api/MackySoft.Modiferty.ReactiveSetModifier-1.html#MackySoft_Modiferty_ReactiveSetModifier_1_Evaluate__0_
+  commentId: M:MackySoft.Modiferty.ReactiveSetModifier`1.Evaluate(`0)
+  fullName: MackySoft.Modiferty.ReactiveSetModifier<T>.Evaluate(T)
+  fullName.vb: MackySoft.Modiferty.ReactiveSetModifier(Of T).Evaluate(T)
+  nameWithType: ReactiveSetModifier<T>.Evaluate(T)
+  nameWithType.vb: ReactiveSetModifier(Of T).Evaluate(T)
+- uid: MackySoft.Modiferty.ReactiveSetModifier`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveSetModifier-1.html#MackySoft_Modiferty_ReactiveSetModifier_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSetModifier`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSetModifier<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.ReactiveSetModifier(Of T).Evaluate
+  nameWithType: ReactiveSetModifier<T>.Evaluate
+  nameWithType.vb: ReactiveSetModifier(Of T).Evaluate
+- uid: MackySoft.Modiferty.ReactiveSetModifier`1.Priority
+  name: Priority
+  href: api/MackySoft.Modiferty.ReactiveSetModifier-1.html#MackySoft_Modiferty_ReactiveSetModifier_1_Priority
+  commentId: P:MackySoft.Modiferty.ReactiveSetModifier`1.Priority
+  fullName: MackySoft.Modiferty.ReactiveSetModifier<T>.Priority
+  fullName.vb: MackySoft.Modiferty.ReactiveSetModifier(Of T).Priority
+  nameWithType: ReactiveSetModifier<T>.Priority
+  nameWithType.vb: ReactiveSetModifier(Of T).Priority
+- uid: MackySoft.Modiferty.ReactiveSetModifier`1.Priority*
+  name: Priority
+  href: api/MackySoft.Modiferty.ReactiveSetModifier-1.html#MackySoft_Modiferty_ReactiveSetModifier_1_Priority_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSetModifier`1.Priority
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSetModifier<T>.Priority
+  fullName.vb: MackySoft.Modiferty.ReactiveSetModifier(Of T).Priority
+  nameWithType: ReactiveSetModifier<T>.Priority
+  nameWithType.vb: ReactiveSetModifier(Of T).Priority
+- uid: MackySoft.Modiferty.ReactiveSetModifierFloat
+  name: ReactiveSetModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveSetModifierFloat.html
+  commentId: T:MackySoft.Modiferty.ReactiveSetModifierFloat
+  fullName: MackySoft.Modiferty.ReactiveSetModifierFloat
+  nameWithType: ReactiveSetModifierFloat
+- uid: MackySoft.Modiferty.ReactiveSetModifierFloat.#ctor
+  name: ReactiveSetModifierFloat()
+  href: api/MackySoft.Modiferty.ReactiveSetModifierFloat.html#MackySoft_Modiferty_ReactiveSetModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveSetModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.ReactiveSetModifierFloat.ReactiveSetModifierFloat()
+  nameWithType: ReactiveSetModifierFloat.ReactiveSetModifierFloat()
+- uid: MackySoft.Modiferty.ReactiveSetModifierFloat.#ctor(System.Single)
+  name: ReactiveSetModifierFloat(Single)
+  href: api/MackySoft.Modiferty.ReactiveSetModifierFloat.html#MackySoft_Modiferty_ReactiveSetModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveSetModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveSetModifierFloat.ReactiveSetModifierFloat(System.Single)
+  nameWithType: ReactiveSetModifierFloat.ReactiveSetModifierFloat(Single)
+- uid: MackySoft.Modiferty.ReactiveSetModifierFloat.#ctor*
+  name: ReactiveSetModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveSetModifierFloat.html#MackySoft_Modiferty_ReactiveSetModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSetModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSetModifierFloat.ReactiveSetModifierFloat
+  nameWithType: ReactiveSetModifierFloat.ReactiveSetModifierFloat
+- uid: MackySoft.Modiferty.ReactiveSetModifierInt
+  name: ReactiveSetModifierInt
+  href: api/MackySoft.Modiferty.ReactiveSetModifierInt.html
+  commentId: T:MackySoft.Modiferty.ReactiveSetModifierInt
+  fullName: MackySoft.Modiferty.ReactiveSetModifierInt
+  nameWithType: ReactiveSetModifierInt
+- uid: MackySoft.Modiferty.ReactiveSetModifierInt.#ctor
+  name: ReactiveSetModifierInt()
+  href: api/MackySoft.Modiferty.ReactiveSetModifierInt.html#MackySoft_Modiferty_ReactiveSetModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveSetModifierInt.#ctor
+  fullName: MackySoft.Modiferty.ReactiveSetModifierInt.ReactiveSetModifierInt()
+  nameWithType: ReactiveSetModifierInt.ReactiveSetModifierInt()
+- uid: MackySoft.Modiferty.ReactiveSetModifierInt.#ctor(System.Int32)
+  name: ReactiveSetModifierInt(Int32)
+  href: api/MackySoft.Modiferty.ReactiveSetModifierInt.html#MackySoft_Modiferty_ReactiveSetModifierInt__ctor_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveSetModifierInt.#ctor(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveSetModifierInt.ReactiveSetModifierInt(System.Int32)
+  nameWithType: ReactiveSetModifierInt.ReactiveSetModifierInt(Int32)
+- uid: MackySoft.Modiferty.ReactiveSetModifierInt.#ctor*
+  name: ReactiveSetModifierInt
+  href: api/MackySoft.Modiferty.ReactiveSetModifierInt.html#MackySoft_Modiferty_ReactiveSetModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSetModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSetModifierInt.ReactiveSetModifierInt
+  nameWithType: ReactiveSetModifierInt.ReactiveSetModifierInt
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat
+  name: ReactiveSubtractiveModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.html
+  commentId: T:MackySoft.Modiferty.ReactiveSubtractiveModifierFloat
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat
+  nameWithType: ReactiveSubtractiveModifierFloat
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.#ctor
+  name: ReactiveSubtractiveModifierFloat()
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.html#MackySoft_Modiferty_ReactiveSubtractiveModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.ReactiveSubtractiveModifierFloat()
+  nameWithType: ReactiveSubtractiveModifierFloat.ReactiveSubtractiveModifierFloat()
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.#ctor(System.Single)
+  name: ReactiveSubtractiveModifierFloat(Single)
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.html#MackySoft_Modiferty_ReactiveSubtractiveModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.ReactiveSubtractiveModifierFloat(System.Single)
+  nameWithType: ReactiveSubtractiveModifierFloat.ReactiveSubtractiveModifierFloat(Single)
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.#ctor*
+  name: ReactiveSubtractiveModifierFloat
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.html#MackySoft_Modiferty_ReactiveSubtractiveModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.ReactiveSubtractiveModifierFloat
+  nameWithType: ReactiveSubtractiveModifierFloat.ReactiveSubtractiveModifierFloat
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.html#MackySoft_Modiferty_ReactiveSubtractiveModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.Evaluate(System.Single)
+  nameWithType: ReactiveSubtractiveModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.html#MackySoft_Modiferty_ReactiveSubtractiveModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.Evaluate
+  nameWithType: ReactiveSubtractiveModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierInt
+  name: ReactiveSubtractiveModifierInt
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.html
+  commentId: T:MackySoft.Modiferty.ReactiveSubtractiveModifierInt
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierInt
+  nameWithType: ReactiveSubtractiveModifierInt
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.#ctor
+  name: ReactiveSubtractiveModifierInt()
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.html#MackySoft_Modiferty_ReactiveSubtractiveModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.ReactiveSubtractiveModifierInt.#ctor
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.ReactiveSubtractiveModifierInt()
+  nameWithType: ReactiveSubtractiveModifierInt.ReactiveSubtractiveModifierInt()
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.#ctor(System.Int32)
+  name: ReactiveSubtractiveModifierInt(Int32)
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.html#MackySoft_Modiferty_ReactiveSubtractiveModifierInt__ctor_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveSubtractiveModifierInt.#ctor(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.ReactiveSubtractiveModifierInt(System.Int32)
+  nameWithType: ReactiveSubtractiveModifierInt.ReactiveSubtractiveModifierInt(Int32)
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.#ctor*
+  name: ReactiveSubtractiveModifierInt
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.html#MackySoft_Modiferty_ReactiveSubtractiveModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSubtractiveModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.ReactiveSubtractiveModifierInt
+  nameWithType: ReactiveSubtractiveModifierInt.ReactiveSubtractiveModifierInt
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.html#MackySoft_Modiferty_ReactiveSubtractiveModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.ReactiveSubtractiveModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.Evaluate(System.Int32)
+  nameWithType: ReactiveSubtractiveModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.html#MackySoft_Modiferty_ReactiveSubtractiveModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.ReactiveSubtractiveModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.ReactiveSubtractiveModifierInt.Evaluate
+  nameWithType: ReactiveSubtractiveModifierInt.Evaluate
+- uid: MackySoft.Modiferty.RoundingMethod
+  name: RoundingMethod
+  href: api/MackySoft.Modiferty.RoundingMethod.html
+  commentId: T:MackySoft.Modiferty.RoundingMethod
+  fullName: MackySoft.Modiferty.RoundingMethod
+  nameWithType: RoundingMethod
+- uid: MackySoft.Modiferty.RoundingMethod.Ceil
+  name: Ceil
+  href: api/MackySoft.Modiferty.RoundingMethod.html#MackySoft_Modiferty_RoundingMethod_Ceil
+  commentId: F:MackySoft.Modiferty.RoundingMethod.Ceil
+  fullName: MackySoft.Modiferty.RoundingMethod.Ceil
+  nameWithType: RoundingMethod.Ceil
+- uid: MackySoft.Modiferty.RoundingMethod.Floor
+  name: Floor
+  href: api/MackySoft.Modiferty.RoundingMethod.html#MackySoft_Modiferty_RoundingMethod_Floor
+  commentId: F:MackySoft.Modiferty.RoundingMethod.Floor
+  fullName: MackySoft.Modiferty.RoundingMethod.Floor
+  nameWithType: RoundingMethod.Floor
+- uid: MackySoft.Modiferty.RoundingMethod.Round
+  name: Round
+  href: api/MackySoft.Modiferty.RoundingMethod.html#MackySoft_Modiferty_RoundingMethod_Round
+  commentId: F:MackySoft.Modiferty.RoundingMethod.Round
+  fullName: MackySoft.Modiferty.RoundingMethod.Round
+  nameWithType: RoundingMethod.Round
+- uid: MackySoft.Modiferty.RoundingModifierDrawer
+  name: RoundingModifierDrawer
+  href: api/MackySoft.Modiferty.RoundingModifierDrawer.html
+  commentId: T:MackySoft.Modiferty.RoundingModifierDrawer
+  fullName: MackySoft.Modiferty.RoundingModifierDrawer
+  nameWithType: RoundingModifierDrawer
+- uid: MackySoft.Modiferty.RoundingModifierDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  name: GetPropertyHeight(SerializedProperty, GUIContent)
+  href: api/MackySoft.Modiferty.RoundingModifierDrawer.html#MackySoft_Modiferty_RoundingModifierDrawer_GetPropertyHeight_SerializedProperty_GUIContent_
+  commentId: M:MackySoft.Modiferty.RoundingModifierDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  fullName: MackySoft.Modiferty.RoundingModifierDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+  nameWithType: RoundingModifierDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+- uid: MackySoft.Modiferty.RoundingModifierDrawer.GetPropertyHeight*
+  name: GetPropertyHeight
+  href: api/MackySoft.Modiferty.RoundingModifierDrawer.html#MackySoft_Modiferty_RoundingModifierDrawer_GetPropertyHeight_
+  commentId: Overload:MackySoft.Modiferty.RoundingModifierDrawer.GetPropertyHeight
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.RoundingModifierDrawer.GetPropertyHeight
+  nameWithType: RoundingModifierDrawer.GetPropertyHeight
+- uid: MackySoft.Modiferty.RoundingModifierDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: api/MackySoft.Modiferty.RoundingModifierDrawer.html#MackySoft_Modiferty_RoundingModifierDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:MackySoft.Modiferty.RoundingModifierDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: MackySoft.Modiferty.RoundingModifierDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: RoundingModifierDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: MackySoft.Modiferty.RoundingModifierDrawer.OnGUI*
+  name: OnGUI
+  href: api/MackySoft.Modiferty.RoundingModifierDrawer.html#MackySoft_Modiferty_RoundingModifierDrawer_OnGUI_
+  commentId: Overload:MackySoft.Modiferty.RoundingModifierDrawer.OnGUI
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.RoundingModifierDrawer.OnGUI
+  nameWithType: RoundingModifierDrawer.OnGUI
+- uid: MackySoft.Modiferty.RoundUtility
+  name: RoundUtility
+  href: api/MackySoft.Modiferty.RoundUtility.html
+  commentId: T:MackySoft.Modiferty.RoundUtility
+  fullName: MackySoft.Modiferty.RoundUtility
+  nameWithType: RoundUtility
+- uid: MackySoft.Modiferty.RoundUtility.Round(System.Single,MackySoft.Modiferty.RoundingMethod)
+  name: Round(Single, RoundingMethod)
+  href: api/MackySoft.Modiferty.RoundUtility.html#MackySoft_Modiferty_RoundUtility_Round_System_Single_MackySoft_Modiferty_RoundingMethod_
+  commentId: M:MackySoft.Modiferty.RoundUtility.Round(System.Single,MackySoft.Modiferty.RoundingMethod)
+  fullName: MackySoft.Modiferty.RoundUtility.Round(System.Single, MackySoft.Modiferty.RoundingMethod)
+  nameWithType: RoundUtility.Round(Single, RoundingMethod)
+- uid: MackySoft.Modiferty.RoundUtility.Round*
+  name: Round
+  href: api/MackySoft.Modiferty.RoundUtility.html#MackySoft_Modiferty_RoundUtility_Round_
+  commentId: Overload:MackySoft.Modiferty.RoundUtility.Round
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.RoundUtility.Round
+  nameWithType: RoundUtility.Round
+- uid: MackySoft.Modiferty.RoundUtility.RoundToInt(System.Single,MackySoft.Modiferty.RoundingMethod)
+  name: RoundToInt(Single, RoundingMethod)
+  href: api/MackySoft.Modiferty.RoundUtility.html#MackySoft_Modiferty_RoundUtility_RoundToInt_System_Single_MackySoft_Modiferty_RoundingMethod_
+  commentId: M:MackySoft.Modiferty.RoundUtility.RoundToInt(System.Single,MackySoft.Modiferty.RoundingMethod)
+  fullName: MackySoft.Modiferty.RoundUtility.RoundToInt(System.Single, MackySoft.Modiferty.RoundingMethod)
+  nameWithType: RoundUtility.RoundToInt(Single, RoundingMethod)
+- uid: MackySoft.Modiferty.RoundUtility.RoundToInt*
+  name: RoundToInt
+  href: api/MackySoft.Modiferty.RoundUtility.html#MackySoft_Modiferty_RoundUtility_RoundToInt_
+  commentId: Overload:MackySoft.Modiferty.RoundUtility.RoundToInt
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.RoundUtility.RoundToInt
+  nameWithType: RoundUtility.RoundToInt
+- uid: MackySoft.Modiferty.SetModifier`1
+  name: SetModifier<T>
+  href: api/MackySoft.Modiferty.SetModifier-1.html
+  commentId: T:MackySoft.Modiferty.SetModifier`1
+  name.vb: SetModifier(Of T)
+  fullName: MackySoft.Modiferty.SetModifier<T>
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T)
+  nameWithType: SetModifier<T>
+  nameWithType.vb: SetModifier(Of T)
+- uid: MackySoft.Modiferty.SetModifier`1.#ctor(`0,System.Int32)
+  name: SetModifier(T, Int32)
+  href: api/MackySoft.Modiferty.SetModifier-1.html#MackySoft_Modiferty_SetModifier_1__ctor__0_System_Int32_
+  commentId: M:MackySoft.Modiferty.SetModifier`1.#ctor(`0,System.Int32)
+  fullName: MackySoft.Modiferty.SetModifier<T>.SetModifier(T, System.Int32)
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T).SetModifier(T, System.Int32)
+  nameWithType: SetModifier<T>.SetModifier(T, Int32)
+  nameWithType.vb: SetModifier(Of T).SetModifier(T, Int32)
+- uid: MackySoft.Modiferty.SetModifier`1.#ctor*
+  name: SetModifier
+  href: api/MackySoft.Modiferty.SetModifier-1.html#MackySoft_Modiferty_SetModifier_1__ctor_
+  commentId: Overload:MackySoft.Modiferty.SetModifier`1.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SetModifier<T>.SetModifier
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T).SetModifier
+  nameWithType: SetModifier<T>.SetModifier
+  nameWithType.vb: SetModifier(Of T).SetModifier
+- uid: MackySoft.Modiferty.SetModifier`1.Evaluate(`0)
+  name: Evaluate(T)
+  href: api/MackySoft.Modiferty.SetModifier-1.html#MackySoft_Modiferty_SetModifier_1_Evaluate__0_
+  commentId: M:MackySoft.Modiferty.SetModifier`1.Evaluate(`0)
+  fullName: MackySoft.Modiferty.SetModifier<T>.Evaluate(T)
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T).Evaluate(T)
+  nameWithType: SetModifier<T>.Evaluate(T)
+  nameWithType.vb: SetModifier(Of T).Evaluate(T)
+- uid: MackySoft.Modiferty.SetModifier`1.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.SetModifier-1.html#MackySoft_Modiferty_SetModifier_1_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.SetModifier`1.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SetModifier<T>.Evaluate
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T).Evaluate
+  nameWithType: SetModifier<T>.Evaluate
+  nameWithType.vb: SetModifier(Of T).Evaluate
+- uid: MackySoft.Modiferty.SetModifier`1.Priority
+  name: Priority
+  href: api/MackySoft.Modiferty.SetModifier-1.html#MackySoft_Modiferty_SetModifier_1_Priority
+  commentId: P:MackySoft.Modiferty.SetModifier`1.Priority
+  fullName: MackySoft.Modiferty.SetModifier<T>.Priority
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T).Priority
+  nameWithType: SetModifier<T>.Priority
+  nameWithType.vb: SetModifier(Of T).Priority
+- uid: MackySoft.Modiferty.SetModifier`1.Priority*
+  name: Priority
+  href: api/MackySoft.Modiferty.SetModifier-1.html#MackySoft_Modiferty_SetModifier_1_Priority_
+  commentId: Overload:MackySoft.Modiferty.SetModifier`1.Priority
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SetModifier<T>.Priority
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T).Priority
+  nameWithType: SetModifier<T>.Priority
+  nameWithType.vb: SetModifier(Of T).Priority
+- uid: MackySoft.Modiferty.SetModifier`1.Value
+  name: Value
+  href: api/MackySoft.Modiferty.SetModifier-1.html#MackySoft_Modiferty_SetModifier_1_Value
+  commentId: P:MackySoft.Modiferty.SetModifier`1.Value
+  fullName: MackySoft.Modiferty.SetModifier<T>.Value
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T).Value
+  nameWithType: SetModifier<T>.Value
+  nameWithType.vb: SetModifier(Of T).Value
+- uid: MackySoft.Modiferty.SetModifier`1.Value*
+  name: Value
+  href: api/MackySoft.Modiferty.SetModifier-1.html#MackySoft_Modiferty_SetModifier_1_Value_
+  commentId: Overload:MackySoft.Modiferty.SetModifier`1.Value
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SetModifier<T>.Value
+  fullName.vb: MackySoft.Modiferty.SetModifier(Of T).Value
+  nameWithType: SetModifier<T>.Value
+  nameWithType.vb: SetModifier(Of T).Value
+- uid: MackySoft.Modiferty.SetModifierFloat
+  name: SetModifierFloat
+  href: api/MackySoft.Modiferty.SetModifierFloat.html
+  commentId: T:MackySoft.Modiferty.SetModifierFloat
+  fullName: MackySoft.Modiferty.SetModifierFloat
+  nameWithType: SetModifierFloat
+- uid: MackySoft.Modiferty.SetModifierFloat.#ctor(System.Single,System.Int32)
+  name: SetModifierFloat(Single, Int32)
+  href: api/MackySoft.Modiferty.SetModifierFloat.html#MackySoft_Modiferty_SetModifierFloat__ctor_System_Single_System_Int32_
+  commentId: M:MackySoft.Modiferty.SetModifierFloat.#ctor(System.Single,System.Int32)
+  fullName: MackySoft.Modiferty.SetModifierFloat.SetModifierFloat(System.Single, System.Int32)
+  nameWithType: SetModifierFloat.SetModifierFloat(Single, Int32)
+- uid: MackySoft.Modiferty.SetModifierFloat.#ctor*
+  name: SetModifierFloat
+  href: api/MackySoft.Modiferty.SetModifierFloat.html#MackySoft_Modiferty_SetModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.SetModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SetModifierFloat.SetModifierFloat
+  nameWithType: SetModifierFloat.SetModifierFloat
+- uid: MackySoft.Modiferty.SetModifierInt
+  name: SetModifierInt
+  href: api/MackySoft.Modiferty.SetModifierInt.html
+  commentId: T:MackySoft.Modiferty.SetModifierInt
+  fullName: MackySoft.Modiferty.SetModifierInt
+  nameWithType: SetModifierInt
+- uid: MackySoft.Modiferty.SetModifierInt.#ctor(System.Int32,System.Int32)
+  name: SetModifierInt(Int32, Int32)
+  href: api/MackySoft.Modiferty.SetModifierInt.html#MackySoft_Modiferty_SetModifierInt__ctor_System_Int32_System_Int32_
+  commentId: M:MackySoft.Modiferty.SetModifierInt.#ctor(System.Int32,System.Int32)
+  fullName: MackySoft.Modiferty.SetModifierInt.SetModifierInt(System.Int32, System.Int32)
+  nameWithType: SetModifierInt.SetModifierInt(Int32, Int32)
+- uid: MackySoft.Modiferty.SetModifierInt.#ctor*
+  name: SetModifierInt
+  href: api/MackySoft.Modiferty.SetModifierInt.html#MackySoft_Modiferty_SetModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.SetModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SetModifierInt.SetModifierInt
+  nameWithType: SetModifierInt.SetModifierInt
+- uid: MackySoft.Modiferty.SubtractiveModifierFloat
+  name: SubtractiveModifierFloat
+  href: api/MackySoft.Modiferty.SubtractiveModifierFloat.html
+  commentId: T:MackySoft.Modiferty.SubtractiveModifierFloat
+  fullName: MackySoft.Modiferty.SubtractiveModifierFloat
+  nameWithType: SubtractiveModifierFloat
+- uid: MackySoft.Modiferty.SubtractiveModifierFloat.#ctor
+  name: SubtractiveModifierFloat()
+  href: api/MackySoft.Modiferty.SubtractiveModifierFloat.html#MackySoft_Modiferty_SubtractiveModifierFloat__ctor
+  commentId: M:MackySoft.Modiferty.SubtractiveModifierFloat.#ctor
+  fullName: MackySoft.Modiferty.SubtractiveModifierFloat.SubtractiveModifierFloat()
+  nameWithType: SubtractiveModifierFloat.SubtractiveModifierFloat()
+- uid: MackySoft.Modiferty.SubtractiveModifierFloat.#ctor(System.Single)
+  name: SubtractiveModifierFloat(Single)
+  href: api/MackySoft.Modiferty.SubtractiveModifierFloat.html#MackySoft_Modiferty_SubtractiveModifierFloat__ctor_System_Single_
+  commentId: M:MackySoft.Modiferty.SubtractiveModifierFloat.#ctor(System.Single)
+  fullName: MackySoft.Modiferty.SubtractiveModifierFloat.SubtractiveModifierFloat(System.Single)
+  nameWithType: SubtractiveModifierFloat.SubtractiveModifierFloat(Single)
+- uid: MackySoft.Modiferty.SubtractiveModifierFloat.#ctor*
+  name: SubtractiveModifierFloat
+  href: api/MackySoft.Modiferty.SubtractiveModifierFloat.html#MackySoft_Modiferty_SubtractiveModifierFloat__ctor_
+  commentId: Overload:MackySoft.Modiferty.SubtractiveModifierFloat.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SubtractiveModifierFloat.SubtractiveModifierFloat
+  nameWithType: SubtractiveModifierFloat.SubtractiveModifierFloat
+- uid: MackySoft.Modiferty.SubtractiveModifierFloat.Evaluate(System.Single)
+  name: Evaluate(Single)
+  href: api/MackySoft.Modiferty.SubtractiveModifierFloat.html#MackySoft_Modiferty_SubtractiveModifierFloat_Evaluate_System_Single_
+  commentId: M:MackySoft.Modiferty.SubtractiveModifierFloat.Evaluate(System.Single)
+  fullName: MackySoft.Modiferty.SubtractiveModifierFloat.Evaluate(System.Single)
+  nameWithType: SubtractiveModifierFloat.Evaluate(Single)
+- uid: MackySoft.Modiferty.SubtractiveModifierFloat.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.SubtractiveModifierFloat.html#MackySoft_Modiferty_SubtractiveModifierFloat_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.SubtractiveModifierFloat.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SubtractiveModifierFloat.Evaluate
+  nameWithType: SubtractiveModifierFloat.Evaluate
+- uid: MackySoft.Modiferty.SubtractiveModifierInt
+  name: SubtractiveModifierInt
+  href: api/MackySoft.Modiferty.SubtractiveModifierInt.html
+  commentId: T:MackySoft.Modiferty.SubtractiveModifierInt
+  fullName: MackySoft.Modiferty.SubtractiveModifierInt
+  nameWithType: SubtractiveModifierInt
+- uid: MackySoft.Modiferty.SubtractiveModifierInt.#ctor
+  name: SubtractiveModifierInt()
+  href: api/MackySoft.Modiferty.SubtractiveModifierInt.html#MackySoft_Modiferty_SubtractiveModifierInt__ctor
+  commentId: M:MackySoft.Modiferty.SubtractiveModifierInt.#ctor
+  fullName: MackySoft.Modiferty.SubtractiveModifierInt.SubtractiveModifierInt()
+  nameWithType: SubtractiveModifierInt.SubtractiveModifierInt()
+- uid: MackySoft.Modiferty.SubtractiveModifierInt.#ctor(System.Int32)
+  name: SubtractiveModifierInt(Int32)
+  href: api/MackySoft.Modiferty.SubtractiveModifierInt.html#MackySoft_Modiferty_SubtractiveModifierInt__ctor_System_Int32_
+  commentId: M:MackySoft.Modiferty.SubtractiveModifierInt.#ctor(System.Int32)
+  fullName: MackySoft.Modiferty.SubtractiveModifierInt.SubtractiveModifierInt(System.Int32)
+  nameWithType: SubtractiveModifierInt.SubtractiveModifierInt(Int32)
+- uid: MackySoft.Modiferty.SubtractiveModifierInt.#ctor*
+  name: SubtractiveModifierInt
+  href: api/MackySoft.Modiferty.SubtractiveModifierInt.html#MackySoft_Modiferty_SubtractiveModifierInt__ctor_
+  commentId: Overload:MackySoft.Modiferty.SubtractiveModifierInt.#ctor
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SubtractiveModifierInt.SubtractiveModifierInt
+  nameWithType: SubtractiveModifierInt.SubtractiveModifierInt
+- uid: MackySoft.Modiferty.SubtractiveModifierInt.Evaluate(System.Int32)
+  name: Evaluate(Int32)
+  href: api/MackySoft.Modiferty.SubtractiveModifierInt.html#MackySoft_Modiferty_SubtractiveModifierInt_Evaluate_System_Int32_
+  commentId: M:MackySoft.Modiferty.SubtractiveModifierInt.Evaluate(System.Int32)
+  fullName: MackySoft.Modiferty.SubtractiveModifierInt.Evaluate(System.Int32)
+  nameWithType: SubtractiveModifierInt.Evaluate(Int32)
+- uid: MackySoft.Modiferty.SubtractiveModifierInt.Evaluate*
+  name: Evaluate
+  href: api/MackySoft.Modiferty.SubtractiveModifierInt.html#MackySoft_Modiferty_SubtractiveModifierInt_Evaluate_
+  commentId: Overload:MackySoft.Modiferty.SubtractiveModifierInt.Evaluate
+  isSpec: "True"
+  fullName: MackySoft.Modiferty.SubtractiveModifierInt.Evaluate
+  nameWithType: SubtractiveModifierInt.Evaluate

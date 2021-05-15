@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Changelog | Modiferty </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Changelog | Modiferty ">
+    <meta name="generator" content="docfx 2.57.2.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    <meta property="docfx:newtab" content="true">
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="changelog">Changelog</h1>
+
+<p>All notable changes to this project will be documented in this file.</p>
+<p>The format is based on <a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a>,
+and this project adheres to <a href="https://semver.org/spec/v2.0.0.html">Semantic Versioning</a>.</p>
+<h2 id="111---2020-11-27">[1.1.1] - 2020-11-27</h2>
+<h3 id="added">Added</h3>
+<ul>
+<li>Added unit tests.</li>
+</ul>
+<h3 id="changed">Changed</h3>
+<ul>
+<li>UniRx Integration runtime code moved to <code>Runtime</code> folder.</li>
+<li><code>ReactiveModifiableProperty&lt;T&gt;</code> / <code>ReactiveModifierList&lt;T&gt;</code>.<code>ObserveChanged</code> now observe <code>ReactiveModifierList&lt;T&gt;.ObserveMove</code>.</li>
+</ul>
+<h2 id="110---2020-11-27">[1.1.0] - 2020-11-27</h2>
+<h3 id="added-1">Added</h3>
+<ul>
+<li>Added UniRx integration. (<a href="https://github.com/neuecc/UniRx">https://github.com/neuecc/UniRx</a>)<ul>
+<li>Define <code>MODIFERTY_UNIRX</code> and enable it.</li>
+</ul>
+</li>
+<li>Added <code>IModifierList&lt;T&gt;.AddModifierAsDisposable</code> extension method.</li>
+</ul>
+<h3 id="changed-1">Changed</h3>
+<ul>
+<li>Renamed assembly name <code>MackySoft.Modiferty.Runtime</code> to <code>MackySoft.Modiferty</code>.</li>
+<li><code>OperatorModifiers</code> now inherit from <code>ModifiableProperty</code>.</li>
+<li>The Modifier(s) suffix has been applied to the extension methods defined in <code>IModifiablePropertyExtensions</code>.</li>
+<li><code>Multiply / DivisionModifierInt</code> now must specify the <code>RoundingMethod</code>.</li>
+</ul>
+<h2 id="103---2020-05-24">[1.0.3] - 2020-05-24</h2>
+<h3 id="changed-2">Changed</h3>
+<ul>
+<li>Changed type of multiply value of <code>MultiplyModifierInt</code> to float.</li>
+<li>Changed type of division value of <code>DivisionModifierInt</code> to float.</li>
+</ul>
+<h2 id="102---2020-05-23">[1.0.2] - 2020-05-23</h2>
+<h3 id="added-2">Added</h3>
+<ul>
+<li>Added extension methods for <code>ModifierList</code>.</li>
+</ul>
+<h3 id="changed-3">Changed</h3>
+<ul>
+<li>Renamed assembly <code>MackySoft.Modiferty</code> to <code>MackySoft.Modiferty.Runtime</code>.</li>
+<li>Renamed folder <code>Scripts</code> to <code>Runtime</code>.</li>
+</ul>
+<h2 id="101---2020-05-20">[1.0.1] - 2020-05-20</h2>
+<h3 id="added-3">Added</h3>
+<ul>
+<li>Added <code>ModifierList</code> extension methods.</li>
+<li>Extracted the <code>IModifier</code> from <code>IModifier&lt;T&gt;</code>.</li>
+</ul>
+<h2 id="100---2020-05-19">[1.0.0] - 2020-05-19</h2>
+<p>First release</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            Vision - Property Modification for Unity
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

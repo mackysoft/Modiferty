@@ -1,0 +1,795 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://mackysoft.github.io/Modiferty/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://mackysoft.github.io/Modiferty/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/Modiferty/Modiferty/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.AdditiveModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.AdditiveModifierFloat.html",
+          "hash": "i1oTZxlPxQTBTdQmMqtonubul8Y4v2xjJxGq2pvaVig="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.AdditiveModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.AdditiveModifierInt.html",
+          "hash": "s3j7xo2P5Ezib/JQEu7gSseqcNEL6ISMvLUWhTOE5bc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.CreateModifier-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.CreateModifier-1.html",
+          "hash": "puNG+Tkqx4E4iwqSiQvz8b7x6AqBonruHpOVmUPgH4M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.DivisionModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.DivisionModifierFloat.html",
+          "hash": "njcxRFS2SEUbIOotDMuxBJEaoHpFGdGoJhCMbrB811k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.DivisionModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.DivisionModifierInt.html",
+          "hash": "AztqzV2QsjfmyKjfBFdxHrFLWdTmJfTP44qsw+BtNsg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IModifiableProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IModifiableProperty-1.html",
+          "hash": "oapT3ZBXkIjX8CHi+0429HlRY7zOqcZcb3cu8+lHC84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IModifiablePropertyExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IModifiablePropertyExtensions.html",
+          "hash": "HCSYscyUQmF+LUujPFePUyTBOrcLXOcWQ5pKMep4ObA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IModifier-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IModifier-1.html",
+          "hash": "hAGqwgwDHPsTXwv5yeUFVhHsT9SgnCLT8Kj1NDlBDgk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IModifier.html",
+          "hash": "9c2nRDitj/rIUmX+MV6LbXV3m4t0wwg8n6bglrNk+ew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IModifierList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IModifierList-1.html",
+          "hash": "tefH+JZ2jaNNZ51KI5XSwKJf/1uG5uzglcHT9+nM6SA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IReactiveModifiableProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IReactiveModifiableProperty-1.html",
+          "hash": "LsEOpNTZlndJToWOCluqzrpgo16Qu6bd1VV3ynan56w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IReactiveModifierList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IReactiveModifierList-1.html",
+          "hash": "VB2VZsWWNZ3xn2re61RTOR8hT+/77sm7IgewrllLddA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html",
+          "hash": "Zih9FHX3pNexDXTS1+zo7Gf4t4iikbtQzK1RWE1qWsA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IReadOnlyModifierList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IReadOnlyModifierList-1.html",
+          "hash": "G7xfcoWqEleLw+xddZxSHDDTYXw8XcoS+S8hUARctZs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty-1.html",
+          "hash": "S0nO15iNXlzDPInMW3lSA6ausEGqk6FMHR9lAKaGkIo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.IReadOnlyReactiveModifierList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.IReadOnlyReactiveModifierList-1.html",
+          "hash": "RKd+ejxfF7d83rZbJ9dZjZxUCg2Xcqh6dOxcqw29vgI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ModifiableFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ModifiableFloat.html",
+          "hash": "u2/GFJqDm5hllWED57FNTx425K8CiRH4f+7a1/cJFg0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ModifiableInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ModifiableInt.html",
+          "hash": "+SFtTN6A/SwlWzpzKjMCAXy1urqljn559SkMeHfz/5U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ModifiablePropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ModifiablePropertyDrawer.html",
+          "hash": "CmA2tvHoBrDAE4YssGrNv4Z90V5g7WA4N6l1fM414TM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ModifieableProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ModifieableProperty-1.html",
+          "hash": "WMUcuZ/z4ayuD8Fx173/tHEAINLaE9911/EcUGPEyZk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ModifierList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ModifierList-1.html",
+          "hash": "7bGwduXnEmMYVzuz5pAC3q/0DZZiRJBP97NmQ9U+I0c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ModifierListExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ModifierListExtensions.html",
+          "hash": "tPR+qc8H+fj/0+EORdFuVzNQ5geekU1WcJaJtcuBzH4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.MultiplyModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.MultiplyModifierFloat.html",
+          "hash": "uDVZ6oA0KMNVLz8jCVXNDIR6UUoTm11KclJQtLmQUj8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.MultiplyModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.MultiplyModifierInt.html",
+          "hash": "O1Wg7fzON+AzYMvsn63neI3lRsS/eTgk/qR5DPhu2sg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.OperatorModifierDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.OperatorModifierDrawer.html",
+          "hash": "jRYZRYIAljGyzqo2ec9tgZ8DNpxEEfIJDLDz2H6MHLQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.OperatorModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.OperatorModifierFloat.html",
+          "hash": "i7LInGoVc0Y7p9AAuFLseZav32ChL5mNgNlGQJx+Iyg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.OperatorModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.OperatorModifierInt.html",
+          "hash": "ZZ9PmWToz6En3FbmAa7n3bjmumuSt2MsuKfNJFgsfa0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.html",
+          "hash": "l8edl2Nvk53Vs7LeAa1QVqR9Kv96Wd/LKS55Un3zGo4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.html",
+          "hash": "tyXU6bLCSqnDM81sacoZKeRHyRfVqMP4KDlFCWdMtDQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.html",
+          "hash": "HnjSOnfHEZ8DiRA3jZdaVQXfsZ2UVLv3p7ckpoAUuBg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveDivisionModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html",
+          "hash": "Pm7v6Y/7lIDN5HwFY+83JVIpM1eLfZAxZNJGm1kVuJs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveModifiableFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveModifiableFloat.html",
+          "hash": "Ei1Wd9PPcyEFLm04iJ2dMKR23LbJ3b+vGngzArZslB4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveModifiableInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveModifiableInt.html",
+          "hash": "oC0rCmH0YQ8Cci1DPX94FawKxQJ8yG+xJQV4qUFWPao="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveModifiableProperty-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html",
+          "hash": "6jrCxLVomz0KwfMDwdZ91SId1LtIKJDsBxXB3qMIYEQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.html",
+          "hash": "E66Zua1A/uNI6Z+8W5yPAI/iN1xFJSEMysBR26KBR8M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveModifierList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveModifierList-1.html",
+          "hash": "y5nYp/JwTYKfJzcBFjDIUvTx1GWwmUn8ULKj8fROQuQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveModifierListExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveModifierListExtensions.html",
+          "hash": "DdDwDxLjhf7TbTsCg+bLxXBdfPykfu3VnPeBoWqmRmE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.html",
+          "hash": "GunupHB49vW5SVKm5ZFrjRRznCDet2OkVnW0VgVby9Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html",
+          "hash": "TPxK4t6+GLL71vcaH37AwXCVNb+cr/Eajl1uSWXb+TE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html",
+          "hash": "A4h7d0IzzB1JDpZqxBwW9PFhyHSQ8ZcPnrCD2v6+dBw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveOperatorModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html",
+          "hash": "MtB4Cpk763Iih+4+i4miRhO4VdtfeHkykr8jcDNO104="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveSetModifier-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveSetModifier-1.html",
+          "hash": "tBBQbK0H9bvaVdUibnLifSLdnWNbNz7jBx9wjv3/wPM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveSetModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveSetModifierFloat.html",
+          "hash": "Zh1M2Iwrtin65TF+xIws3HrIm6O1QY3sElA1Rtpfk7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveSetModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveSetModifierInt.html",
+          "hash": "tvUBQKAm9WHp86412+bhAUhlA0nWWPGdOeupt1x1hkg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.html",
+          "hash": "GYquQhZlOT/ZAvBiTb0B2tFJtM1K6NCgampEi9Wg2qM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.html",
+          "hash": "elgLUv+aKUtUinSZv/C+32zb8XzGxdaUESwOCTX9I1s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.RoundUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.RoundUtility.html",
+          "hash": "CdLjSKJutJLFCEumJfrDb0Zi+gHTzfDxTcvcoFkTMbQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.RoundingMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.RoundingMethod.html",
+          "hash": "dlrNpdEiiFkA+mpLQKgMifKOGzIVvAgyG7sBcK4pL4E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.RoundingModifierDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.RoundingModifierDrawer.html",
+          "hash": "qBvUZvrlAH05B4xyYLZdRaIQhlclyWgpTmfHkwkmjB0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.SetModifier-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.SetModifier-1.html",
+          "hash": "yk+t9Al1Hnkau504WEc+kNeDXpNMOHSnh6029w/TIQU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.SetModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.SetModifierFloat.html",
+          "hash": "gCvcoMgPhIewa/QCITGnNgATLUmMTG/zZliU8XOToXY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.SetModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.SetModifierInt.html",
+          "hash": "NzGWrZSs11txQKrnEuAsutKVjfQFhnc1fVEK/cdy/gk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.SubtractiveModifierFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.SubtractiveModifierFloat.html",
+          "hash": "8WKJfVelj2cCCTV6sk0P16gUvDUvjyAb0kTRBU1SXsU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.SubtractiveModifierInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.SubtractiveModifierInt.html",
+          "hash": "FqUJ+E5u9Ho9otQXE9z0zFiF5miYXvO90I0mIE2Fj9w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MackySoft.Modiferty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MackySoft.Modiferty.html",
+          "hash": "tzN75DOoZ9GmEddv+vF32ER/pnrifpgq6DKCogiSYwo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "9cnpQpVpIVA+gI02CiBurn7ed1YKBUogeK98kbD6gM0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html",
+          "hash": "HSTFkSvA7nnnInjygdlFlMuCz/ExLC7X6Sds/Pazqxk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html",
+          "hash": "1q1fO7/YyPEGJ89UlRVsP2/QXB8oQ3/9CvSsb1tfrWg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Po+yD36glr1N+7M72ATlXKFZP3tBTnaZDfgJZHn7wdw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "5IbQ06yq0RMwbcrbqN/G7gNFm/OhwPmDYiIVhXHE4LM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 55,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
