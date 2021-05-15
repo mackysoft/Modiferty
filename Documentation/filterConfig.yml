@@ -1,0 +1,16 @@
+apiRules:
+- include:
+    uidRegex: ^MackySoft\.Modiferty$
+    type: Namespace
+- include:
+    uidRegex: ^MackySoft\.Modiferty$\.Editor
+    type: Namespace
+- include:
+    uidRegex: ^Global
+    type: Namespace
+- exclude:
+    uidRegex: .*
+    type: Namespace
+- exclude:
+    uidRegex: ^MackySoft\.Modiferty$\.Example
+    type: Namespace
