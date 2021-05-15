@@ -2,7 +2,10 @@
 
 **Created by Hiroya Aramaki ([Makihiro](https://twitter.com/makihiro_dev))**
 
-Introduction (Japanese): [https://mackysoft.net/modiferty-introduction/](https://mackysoft.net/modiferty-introduction/)
+[![Tests](https://github.com/mackysoft/Modiferty/actions/workflows/tests.yaml/badge.svg)](https://github.com/mackysoft/Modiferty/actions/workflows/tests.yaml)
+[![Build](https://github.com/mackysoft/Modiferty/actions/workflows/build.yaml/badge.svg)](https://github.com/mackysoft/Modiferty/actions/workflows/build.yaml)
+[![Release](https://img.shields.io/github/v/release/mackysoft/Modiferty)](https://github.com/mackysoft/Modiferty/releases)
+[![openupm](https://img.shields.io/npm/v/com.mackysoft.modiferty?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.mackysoft.modiferty/)
 
 ## What is Modiferty ?
 
