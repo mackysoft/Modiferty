@@ -97,7 +97,7 @@ jobs:
       # Store artifacts.
       - uses: actions/upload-artifact@v2
         with:
-          name: Vision.unitypackage
+          name: Modiferty.unitypackage
           path: ./Build/Modiferty.unitypackage
 
   create-release:
