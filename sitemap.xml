@@ -2,343 +2,343 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.AdditiveModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.AdditiveModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.CreateModifier-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.DivisionModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.DivisionModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IModifiableProperty-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IModifiablePropertyExtensions.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IModifier.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IModifier-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IModifierList-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IReactiveModifiableProperty-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IReactiveModifierList-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IReadOnlyModifiableProperty-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IReadOnlyModifierList-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IReadOnlyReactiveModifiableProperty-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.IReadOnlyReactiveModifierList-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ModifiableFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ModifiableInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ModifiablePropertyDrawer.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ModifieableProperty-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ModifierList-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ModifierListExtensions.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.MultiplyModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.MultiplyModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.OperatorModifierDrawer.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.OperatorModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.OperatorModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveAdditiveModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveAdditiveModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveDivisionModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveDivisionModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveModifiableFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveModifiableInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveModifiableProperty-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveModifiablePropertyExtensions.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveModifierList-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveModifierListExtensions.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveMultiplyModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveMultiplyModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveOperatorModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveOperatorModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveSetModifier-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveSetModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveSetModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveSubtractiveModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.ReactiveSubtractiveModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.RoundingMethod.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.RoundingModifierDrawer.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.RoundUtility.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.SetModifier-1.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.SetModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.SetModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.SubtractiveModifierFloat.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.SubtractiveModifierInt.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/api/MackySoft.Modiferty.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/changelog/CHANGELOG.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mackysoft.github.io/Modiferty/index.html</loc>
-    <lastmod>2021-05-15T07:20:22+00:00</lastmod>
+    <lastmod>2021-05-15T07:34:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
