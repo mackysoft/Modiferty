@@ -20,7 +20,7 @@
     "build": {
         "globalMetadata": {
             "_appTitle": "Modiferty",
-            "_appFooter": "Vision - Property Modification for Unity",
+            "_appFooter": "Modiferty - Property Modification for Unity",
             "_enableSearch": true,
             "_enableNewTab": true,
             "_disableContribution": true
