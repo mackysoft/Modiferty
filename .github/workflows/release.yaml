@@ -117,7 +117,7 @@ jobs:
           prerelease: false
 
       # Download(All) Artifacts to current directory
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v4.1.7
       
       # Upload to Releases(unitypackage)
       - uses: actions/upload-release-asset@v1
